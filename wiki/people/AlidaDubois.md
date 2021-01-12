@@ -1,5 +1,5 @@
 ---
-title: AlidaDubois
+title: Alida Dubois
 categoris: people
 ---
 
