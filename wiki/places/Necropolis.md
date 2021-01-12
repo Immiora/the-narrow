@@ -5,4 +5,4 @@ categories: places
 
 ### Necropolis
 
-Interesting place that [Yana](Yana) probably once went to
+Island south of [Magdalen](Magdalen). Place where the dead are sent to.
