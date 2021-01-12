@@ -10,7 +10,7 @@ On her dead body were found 2 viles of [Forever](Forever).
 We also found a sample of her blood and [pigmen](pigmen)'s blood at the [University Greenhouse #3](UniversityGreenhouse). It is likely that she was killed at the Greenhouse and dragged outside toward the pub.
 
 ### Graduation project
-Harba was a graduate student of prof. [Magnus Cotton](MagnusCotton). Both worked on botany projects. Her thesis was about the classification of the specimen that late prof. [Pete Bishop](Pete Bishop) had brought back from his expedition to [The Marvain Islands](TheMarvainIslands). 
+Harba was a graduate student of prof. [Magnus Cotton](MagnusCotton). Both worked on botany projects. Her thesis was about the classification of the specimen that late prof. [Pete Bishop](Pete Bishop) had brought back from his expedition to [The Marvain Islands](TheMarvainIslands) that took place 10 years ago. 
 
 There were 12 specimens. They are believed to have hallucinogenic properties. Many uncatalogued. Harba left behind a jounal describing her work. 
 
