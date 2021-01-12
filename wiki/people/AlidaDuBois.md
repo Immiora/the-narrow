@@ -31,7 +31,7 @@ Rumor has it that Alida might have been seeking marriage with [Cyrus Burton](Cyr
 - [Opal LeRoux](OpalLeRoux), [Pearl](Pearl)’s mother
 - [Major Eve Martin](EveMartin)
 - [Jacques Robichaud](JacquesRobichaud), eligible bachelor
-- [Dr. Martinet Stoker](Martinet Stoker)
+- [Dr. Martinet Stoker](MartinetStoker)
 - [Posco Swiftwood](PoscoSwiftwood)
 - [Luca Thibault](LucaThibault)
 - [Ophelia Wickham](OpheliaWickham), eligible debutante
