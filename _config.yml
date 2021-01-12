@@ -101,7 +101,6 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-mentions
-  - jekyll-menus
   - jekyll-optional-front-matter
   - jekyll-readme-index
   - jekyll-redirect-from
