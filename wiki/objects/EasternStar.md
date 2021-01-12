@@ -1,5 +1,5 @@
 ---
-title: EasternStar
+title: Eastern Star
 categories: objects
 ---
 
