@@ -5,4 +5,4 @@ categories: people
 
 ### Ghost
 
-A famous burgler. Known to have stolen [Eastern Star](Eastern Star)
+A famous burgler. Known to have stolen Eastern Star
