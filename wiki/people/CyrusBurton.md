@@ -7,7 +7,7 @@ categories: people
 
 A  magistrate of Lord's Lane and owner of a formely successful shipping company [Upper Nethra](UpperNethra). Father or [Florence Burton](FlorenceBurton), widower of [Elizabeth Burton](ElizabethBurton). Found dead in the library of his mansion on November 19th during the night. Dagger was stuck in his chest. This happened after the soiree he hosted for his daughter Florence.
 
-### Attendance list for the DuBois’ party on November 12th
+### Attendance list for Florence's Coming of Age soiree on November 18th
 
 - [Florence Burton](FlorenceBurton)
 - [Granville Rowle](GranvilleRowle), [Cyrus Burton](CyrusBurton)'s solicitor
