@@ -1,5 +1,6 @@
 ---
 permalink: /places/
+title: Readme
 ---
 
 {% assign cat = "places" %}
