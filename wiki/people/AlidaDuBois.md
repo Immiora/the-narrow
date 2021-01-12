@@ -11,7 +11,7 @@ Mother of [Elodie DuBois](ElodieDuBois).
 
 Rumor has it that Alida might have been seeking marriage with [Cyrus Burton](CyrusBurton).
 
-### Attendance list for the DuBois' party on November 12th
+### Attendance list for the DuBois' party on November 11th
 
 - [Bertram Beedle](BertramBeedle)
 - [Zacharias Briggs](ZachariasBriggs)
