@@ -2,7 +2,7 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+### Corpulenti Case
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+Wiki for our DnD campaign where Pearl, Reina, Lelouche and Aiwei are trying to solve the murders in [Magdalen](Magdalen) and find [Giacomo Corpulenti](Corpulenti)
 
