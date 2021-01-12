@@ -24,11 +24,11 @@ Rumor has it that Alida might have been seeking marriage with [Cyrus Burton](Cyr
 - [Elodie DuBois](ElodieDuBois), [lady Alida DuBois](AlidaDuBois)’ daughter
 - [Clementine Faraday](ClementineFaraday)
 - [Gabriel Fournier](GabrielFournier)
-- [Barthélémy Kairon](BarthelemyKairon), [Lelouche](Lelouche)’s brother
+- [Barthélémy Kairon](BarthelemyKairon), [Lelouche](LeloucheKairon)’s brother
 - [Sarita Layton](SaritaLayton), editor of the [Magdalen Journalier](MagdalenJournalier)
 - [Lady Rue](LadyRue)
-- [Jasper LeRoux](JasperLeRoux), [Pearl](Pearl)’s father
-- [Opal LeRoux](OpalLeRoux), [Pearl](Pearl)’s mother
+- [Jasper LeRoux](JasperLeRoux), [Pearl](PearlLeRoux)’s father
+- [Opal LeRoux](OpalLeRoux), [Pearl](PearlLeRoux)’s mother
 - [Major Eve Martin](EveMartin)
 - [Jacques Robichaud](JacquesRobichaud), eligible bachelor
 - [Dr. Martinet Stoker](MartinetStoker)
