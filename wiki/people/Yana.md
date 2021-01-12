@@ -1,5 +1,6 @@
 ---
 title: Yana
+categories: people
 ---
 
 ### Yana
