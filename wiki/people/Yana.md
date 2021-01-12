@@ -1,6 +1,6 @@
 ---
 title: Yana
-menus: People
+tags: people
 ---
 
 ### Yana
