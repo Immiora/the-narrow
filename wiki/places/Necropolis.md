@@ -1,3 +1,3 @@
 ### Necropolis
 
-Interesting place that [Yana](Yana.md) probably once went to
+Interesting place that [Yana](Yana) probably once went to
