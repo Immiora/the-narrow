@@ -1,9 +1,9 @@
 ---
-title: Corpulenti
+title: Giacomo Corpulenti
 categories: people
 ---
 
-### Corpulenti
+### Giacomo Corpulenti
 
 Giacomo Corpulenti is an opera singer. Assumed to have been kidnapped to [pigmen](pigmen) on [Ham](Ham) and [Yana](Yana)'s orders on November 12th. 
 
