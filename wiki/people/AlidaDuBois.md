@@ -17,7 +17,7 @@ Rumor has it that Alida might have been seeking marriage with [Cyrus Burton](Cyr
 - [Zacharias Briggs](ZachariasBriggs)
 - [Cyrus Burton](CyrusBurton), magistrate of Lord’s Lane
 - [Florence Burton](FlorenceBurton), his daughter
-- [DCS Jane Darling](DCS Jane Darling), [Tarquin Hamcrusher](TarquinHamcrusher)’s boss
+- [DCS Jane Darling](JaneDarling), [Tarquin Hamcrusher](TarquinHamcrusher)’s boss
 - [Orson Darlington-Whit](OrsonDarlingtonWhit), magistrate for Ratwater and guild master of the Transporters and Carters Guild
 - [Lilith DeVaere](LilithDeVaere), [Eletha DeVaere](ElethaDeVaere)’s mother
 - [Orist DeVaere](OristDeVaere), [Eletha DeVaere](ElethaDeVaere)'s father
