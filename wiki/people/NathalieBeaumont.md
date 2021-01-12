@@ -8,7 +8,7 @@ Person possibly still imprisoned in connection with an animal-creature case.
 
 Used to work at the [Waspa's Institute of Knowledge](WaspasInstituteOfKnowledge).
 
-Grandmother of [Orana](Orana) priestess [Rosalie Beaumont].
+Grandmother of [Orana](Orana) priestess [Rosalie Beaumont](RosalieBeaumont).
 
 ### Work at Waspa's
 Assumed to work on animal/human surgeries. 
