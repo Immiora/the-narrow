@@ -1,6 +1,6 @@
 <div class="git-wiki-page-list">
     {% if site.inc_before_page_list %}
-    {% include {{ site.inc_before_page_list }} %}
+        {% include {{ site.inc_before_page_list }} %}
     {% endif %}
 
     <span class="page-list-title">Pages {% if (site.show_wiki_pages_limit >= 1 %} (Latest {{site.show_wiki_pages_limit
@@ -9,14 +9,16 @@
         {% assign numPages=0 %}
         {% assign items = site.html_pages | sort: 'date' %}
         {% for page in items %}
-        {% if numPages >= site.show_wiki_pages_limit %}
-        {% break %}
+            {% if numPages >= site.show_wiki_pages_limit %}
+            {% break %}
         {% endif %}
-        {% if page.is_wiki_page != false and page.sitemap != false and unless page.title contains "README" %}
-        <li class="page-list-item">
-            {% assign title = page.title | default: page.name %}
-            <a href="{{ page.url | relative_url }}">{{title | escape}}</a>
-        </li>
+        {% if page.is_wiki_page != false and page.sitemap != false %}
+            {% unless page.title contains "README" %}
+            <li class="page-list-item">
+                {% assign title = page.title | default: page.name %}
+                <a href="{{ page.url | relative_url }}">{{title | escape}}</a>
+            </li>
+            {% endunless %}
         {% assign numPages = numPages | plus: 1 %}
         {% endif %}
 
@@ -24,6 +26,6 @@
     </ul>
 
     {% if site.inc_after_page_list %}
-    {% include {{ site.inc_after_page_list }} %}
+        {% include {{ site.inc_after_page_list }} %}
     {% endif %}
 </div>
