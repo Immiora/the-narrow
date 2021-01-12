@@ -21,7 +21,7 @@ Rumor has it that Alida might have been seeking marriage with [Cyrus Burton](Cyr
 - [Orson Darlington-Whit](OrsonDarlingtonWhit), magistrate for Ratwater and guild master of the Transporters and Carters Guild
 - [Lilith DeVaere](LilithDeVaere), [Eletha DeVaere](ElethaDeVaere)’s mother
 - [Orist DeVaere](OristDeVaere), [Eletha DeVaere](ElethaDeVaere)'s father
-- [Elodie DuBois](ElodieDuBois), [lady Alida DuBois](AlidaDuBois)’ daughter
+- [Elodie DuBois](ElodieDuBois), lady [Alida DuBois](AlidaDuBois)’ daughter
 - [Clementine Faraday](ClementineFaraday)
 - [Gabriel Fournier](GabrielFournier)
 - [Barthélémy Kairon](BarthelemyKairon), [Lelouche](LeloucheKairon)’s brother
