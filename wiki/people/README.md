@@ -2,7 +2,7 @@
 permalink: /people/
 ---
 
-{% assign cat = people %}
+{% assign cat = "people" %}
 
 ### {{ cat }}
 <ul>
