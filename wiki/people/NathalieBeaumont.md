@@ -4,7 +4,7 @@ categories: people
 ---
 
 ### Nathalie Beaumont
-Person possibly still imprisoned in connection with an animal-creature case.
+Person possibly still imprisoned at [Skourge](Skourge) in connection with an animal-creature case.
 
 Used to work at the [Waspa's Institute of Knowledge](WaspasInstituteOfKnowledge).
 
@@ -17,4 +17,4 @@ Natalie lead expeditions to [Naivazi](Naivazi), got in contact with indigenous t
 
 Very little records of her work left, according to Dr. [Martinet Stoker](MartinetStoker): missing journals and correspondence.
 
-According to [Martinet Stoker](MartinetStoker): rulers at the time did not appreciate this type of research. Accused Natalie of treason.
+According to [Martinet Stoker](MartinetStoker): rulers at the time did not appreciate this type of research. Accused Natalie of treason. Imprisoned for life.
