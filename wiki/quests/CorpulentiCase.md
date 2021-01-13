@@ -32,7 +32,7 @@ The [Session Log can be found here](SessionLog).
 * What happened to the [Star of the West](StarOfTheWest) now it has turned out to be a forgery, likely for years?
 * Commander [Franklin Clint](FranklinClint) is worried about [Valèrie Courbier](ValerieCourbier)'s actions. What is he worried about?
 * What does [Phyneas Vyner](PhyneasVyner) of the [Black Academy](BlackAcademy) know about the [Aura Vitalis](AuraVitalis) theory that [Martinet Stoker](Martinet Stoker) mentioned?
-* Where did the giant hermit crabs come from?
+* Where did the giant hermit crabs come from that made their home in the wreckage of the [Silver Heron](SilverHeron)?
 
 * Why is [Reina](ReinaEmberblower) dreaming about a beach?
 * What is the source of the fragrant aroma that [Aiwei](AiweiLuTen) sometimes smells?
