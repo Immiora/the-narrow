@@ -254,9 +254,9 @@ As in slow motion, Aiwei starts to pummel on the imposter and manages to stun hi
 
 Aiwei knocks Dr. Foreman unconscious, and asks loudly: “Where is Dr. Anderson? We’ve been betrayed!” They take the time to look at the body of the tiger. They find a dagger, similar to the one Reina had taken from the pig men earlier. Furthermore, there is a purse with coin, containing a massive 61 pp, 550 gp and 200 ep. There is also a small, ornamental bone carved likeness of Vitrion, the wounded Jackal. Finally, they find a written letter addressed to Lord Yana:
 
-Lord Yana,
-Meet me on the steps of the cathedral at noon
--H
+> Lord Yana,
+> Meet me on the steps of the cathedral at noon
+> -H
 
 The investigators keep the letter as a handwriting sample. As Aiwei goes looking for Dr. Anderson, Pearl revives Dr. Foreman. He looks around what has gone on, and starts to cry. Pearl comforts him somewhat, and asks him if he is able to create a test that can detect the presence of Forever. The sopping doctor agrees and retreats to his office. 
 
@@ -335,11 +335,11 @@ Lelouche bounds up to the attic. There, he starts ripping paintings apart. Aiwei
 
 Looking in the frame of the painting that Lelouche attacked, they spot an old journal, a diary of Elisabeth Burton. They read the following passages: 
 
-Went out for a walk today in the street. The sun was shining, and it was beautiful. When I came back, Florence was crying. Cyrus told me I shouldn’t go out, as I have a very weak constitution. It is not safe for me in the street.
+> Went out for a walk today in the street. The sun was shining, and it was beautiful. When I came back, Florence was crying. Cyrus told me I shouldn’t go out, as I have a very weak constitution. It is not safe for me in the street.
 
-The Lady in the river talked to me again today. She is very kind, and tells me her name is Rue. Somehow, life doesn’t feel quite so lonely when I talk to her. Cyrus told me that the Lady in the River does not exist, and he’s probably right. Florence cried again. 
+> The Lady in the river talked to me again today. She is very kind, and tells me her name is Rue. Somehow, life doesn’t feel quite so lonely when I talk to her. Cyrus told me that the Lady in the River does not exist, and he’s probably right. Florence cried again. 
 
-The Lady in the river is back again. I tried to ignore it. I must be going mad. Oh, I wish Florence would stop crying.
+> The Lady in the river is back again. I tried to ignore it. I must be going mad. Oh, I wish Florence would stop crying.
 
 Pearl spots the damage on the beams that indicate the former presence of a rope tied to it. Aiwei asks herself and the group aloud whether Elisabeth Burton may have hanged herself. Upon that, the ghost releases Lelouche, and manifests in the form of the pale appearance of Elisabeth Burton. She attacks Lelouche and the others, and while hitting her temporarily causes her to destabilise, she returns ever again. Pearl tries to let a likeness of the woman in the painting appear, and the ghost looks at her expectantly. Aiwei, in the voice she imagines the woman would sound like, tells her “I forgive you.” The ghost relaxes herself, and fades into nothingness. 
 
@@ -481,7 +481,7 @@ Reina has joined the two. “So, about the blood samples that Dr. Foreman analys
 
 Lelouche drops his spoon, and his mouth falls open. “He’s our neighbour! I’ve talked to him only days ago. We should go and speak to him!” Aiwei responds: “How are we going to approach him?” “Well,” Lelouche says, “he struck me as a man better to trap with honey than with vinegar. And if that doesn’t work there is always the metaphorical stick.” “Which is an actual stick,” Aiwei quips.
 
-Lelocuhe knocks on their neighbour’s door, and soon Dr. Martinet Stoker answers. Genial as ever, he introduces himself to the other new neighbours, but apologises that he has an appointment at Waspa’s soon. “If we could step in for just a moment,” Lelouch offers, but Dr. Stoker replies: “Maybe you can walk with me towards Waspa’s.” He puts on his travelling cloak and locks him door behind him. “You see,” Lelouche starts, “we’ve been involved in a case, and came across a certain individual called Nathalie Beaumont. Have you ever hear of her?” Dr. Stoker thinks for a while. “Yes, I did come across her name. Mind you, it was a couple of years back. I remember reading something about the poor woman and all that nasty business.” “What did you read?” Lelouche prompts. “The poor woman was tried for treason, very likely because she was researching something that the leaders of the city didn’t like, back then. This was several decades ago.”
+Lelouche knocks on their neighbour’s door, and soon Dr. Martinet Stoker answers. Genial as ever, he introduces himself to the other new neighbours, but apologises that he has an appointment at Waspa’s soon. “If we could step in for just a moment,” Lelouch offers, but Dr. Stoker replies: “Maybe you can walk with me towards Waspa’s.” He puts on his travelling cloak and locks him door behind him. “You see,” Lelouche starts, “we’ve been involved in a case, and came across a certain individual called Nathalie Beaumont. Have you ever hear of her?” Dr. Stoker thinks for a while. “Yes, I did come across her name. Mind you, it was a couple of years back. I remember reading something about the poor woman and all that nasty business.” “What did you read?” Lelouche prompts. “The poor woman was tried for treason, very likely because she was researching something that the leaders of the city didn’t like, back then. This was several decades ago.”
 
 “Why did you find out about this case, if it was this long ago?” Aiwei asks. “Because of missing lab journals,” Dr. Stoker responds. “I was going through the archives and found a significant gap that corresponded to Beaumont’s period at Waspa’s. Now this sometimes happens, students take lab journals home when they’re not supposed to, but it was so thorough that I got somewhat suspicious. I know she was a surgeon, but there is simply no information available about her work in our archives, which is curious for someone who used to be a research fellow here. I have to admit that I sort of abused my position as Magistrate to pull some records from the city watch, but they were not exactly clear either. The most I figured out was that Beaumont found some knowledge from an indigenous tribe in the Naivazi, and was hoping to extend the knowledge on this ritual.”
 
