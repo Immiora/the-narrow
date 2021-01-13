@@ -1,6 +1,6 @@
 ---
 title: Erena
-categories: other
+categories: gods
 ---
 
 ### Erena
