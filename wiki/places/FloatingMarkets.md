@@ -26,3 +26,7 @@ Two men selling firearms and gunpowder.
 ### Eva
 
 She sells jewelry and trinkets.
+
+### Skinny Joe
+
+A small-time crook and informant of [Reina](ReinaEmberblower).
