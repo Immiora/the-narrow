@@ -1,6 +1,6 @@
 ---
 title: Imiz
-categories: other
+categories: gods
 ---
 
 ### Imiz
