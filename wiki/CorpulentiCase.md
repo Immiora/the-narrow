@@ -1,6 +1,7 @@
 ---
 redirect_from: "/"
 title: Corpulenti Case
+categories: quests
 ---
 
 ### Corpulenti Case
