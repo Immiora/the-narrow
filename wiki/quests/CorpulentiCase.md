@@ -12,9 +12,18 @@ categories: quests
 
 
 * Who murdered DI [Dave Harrelson](DaveHarrelson), [Harba Ellicott](HarbaEllicott) and [Robart Talmayar](RobartTalmayar) and why?
-* Who is the mysterious figure [Ham](Ham) who directs the [Pig men](pigmen)? What is Ham's plan?
-* Where is [Giacomo Corpulenti](GiacomoCorpulenti)? What happened to his new friend, Dr. [Mahendra](Mahendra)?
+* Who is the mysterious figure [Ham](Ham) who directs the [Pig men](pigmen) and the other animal hybrids? What is Ham's plan?
+* Where is [Giacomo Corpulenti](GiacomoCorpulenti)? What happened to his new friend, Dr. [Mahendra](Mahendra)? Why is Corpulenti kidnapped?
 * What is the connection between the hallucinogenic drug [Forever](Forever) and the plans of [Ham](Ham)?
 * What happened to the preserved sample that was stolen from the [Colin Marshall Institute of Crual and Unusual Botany](ColinMarshallInstitute)?
 * How are the [Pig men](pigmen) and the other animal hybrids created? 
 * What information did [Nathalie Beaumont](NathalieBeaumont) bring to Magdalen, forty years ago, for which she was imprisoned?
+* Where is Dr. [Jean Anderson](JeanAnderson)?
+
+* Various thieves guilds have picked up on vague rumours about a plan to assasinate the sovereign. What is going on?
+* Why did [Elisabeth Burton](ElisabethBurton) commit suicide?
+* Who murdered [Cyrus Burton](Cyrus Burton) and why?
+* What is the cause behind recent series of bad luck hitting [Cyrus Burton](CyrusBurton)'s Upper Nephra Shipping Company?
+* Who is the [Ghost](Ghost), the audacious society burglar who has stolen the [Eastern Star](EasternStar) from a recent party at lady [Alida DuBois](AlidaDuBois)' place?
+* What happened to the [Star of the West](StaroftheWest) now it has turned out to be a forgery, likely for years?
+* Commander [Franklin Clint](FranklinClint) is worried about [Valèrie Courbier](ValerieCourbier)'s actions. What is he worried about? 
