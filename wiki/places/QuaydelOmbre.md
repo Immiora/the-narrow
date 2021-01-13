@@ -5,7 +5,7 @@ categories: places
 
 ### Brownstone manor
 
-Situated on 21 Quay de l'Ombre is a handsome brownstone manor house in the Port Royal ward. The place belongs to [Cyrus Burton](CyrusBurton), and the group was provided with indefinate access to the place by [Granville Rowle](GranvilleRowle), Burton's solicitor, in exchange for protecting the [Star of the West](StaroftheWest).
+Situated on 21 Quay de l'Ombre is a handsome brownstone manor house in the Port Royal ward. The place belongs to [Cyrus Burton](CyrusBurton), and the group was provided with indefinate access to the place by [Granville Rowle](GranvilleRowle), Burton's solicitor, in exchange for protecting the [Star of the West](StarOfTheWest).
 
 ### Haunted
 
