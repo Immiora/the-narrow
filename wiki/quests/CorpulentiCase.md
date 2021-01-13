@@ -8,6 +8,10 @@ categories: quests
 
 [Pearl](PearlLeRoux), [Reina](ReinaEmberblower), [Lelouche](LeloucheKairon) and [Aiwei](AiweiLuTen) are trying to solve the murders in [Magdalen](Magdalen) and find [Giacomo Corpulenti](GiacomoCorpulenti)
 
+### Session Log
+
+The [Session Log can be found here](SessionLog).
+
 ### Open questions
 
 
