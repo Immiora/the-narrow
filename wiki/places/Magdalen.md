@@ -7,6 +7,10 @@ categories: places
 
 The city where our campaign takes place. We are trying to find [Corpulenti](GiacomoCorpulenti), who we believe has been kidnapped by [Ham](Ham) and his servants - [pigmen](pigmen).
 
+### Politics
+
+Magdalen consists of three principalities, the Magdalen, Lord's Lane and Ratwater. Each principality is subdivided in wards, and each principality has its own governor (or Mayor, in the case of Ratwater). Together with the chief magistrates of each principality and some prominent guildsmen, they form the [Magdalen City Council](CityCouncil), which is presided by the Lord Mayor of Magdalen, [Tarsim Uptwaith](TarsimUptwaith). There is no unified procedure to get on the city council, with some positions being hereditary, others granted on the basis of influence in the city, and a few are even elected officials.
+
 
 ### Founding
 
