@@ -30,7 +30,9 @@ The [Session Log can be found here](SessionLog).
 * What is the cause behind recent series of bad luck hitting [Cyrus Burton](CyrusBurton)'s [Upper Nephra](UpperNephra) Shipping Company?
 * Who is the [Ghost](Ghost), the audacious society burglar who has stolen the [Eastern Star](EasternStar) from a recent party at lady [Alida DuBois](AlidaDuBois)' place?
 * What happened to the [Star of the West](StarOfTheWest) now it has turned out to be a forgery, likely for years?
-* Commander [Franklin Clint](FranklinClint) is worried about [Valèrie Courbier](ValerieCourbier)'s actions. What is he worried about? 
+* Commander [Franklin Clint](FranklinClint) is worried about [Valèrie Courbier](ValerieCourbier)'s actions. What is he worried about?
+* What does [Phyneas Vyner](PhyneasVyner) of the [Black Academy](BlackAcademy) know about the [Aura Vitalis](AuraVitalis) theory that [Martinet Stoker](Martinet Stoker) mentioned?
+* Where did the giant hermit crabs come from?
 
 * Why is [Reina](ReinaEmberblower) dreaming about a beach?
 * What is the source of the fragrant aroma that [Aiwei](AiweiLuTen) sometimes smells?
