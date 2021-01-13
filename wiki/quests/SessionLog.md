@@ -1,5 +1,5 @@
 ---
-title: Corpulenti Case
+title: Session Log
 categories: quests
 ---
 
