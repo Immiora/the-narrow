@@ -10,7 +10,7 @@ categories: quests
 
 ### Session Log
 
-The [Session Log can be found here](SessionLog). Read for example [Session 8 – The Lady in the River](SessionLog### Session 8 – The Lady in the River).
+The [Session Log can be found here](SessionLog).
 
 ### Open questions
 
