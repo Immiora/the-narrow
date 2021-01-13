@@ -25,7 +25,7 @@ categories: quests
 * Who murdered [Cyrus Burton](Cyrus Burton) and why?
 * What is the cause behind recent series of bad luck hitting [Cyrus Burton](CyrusBurton)'s Upper Nephra Shipping Company?
 * Who is the [Ghost](Ghost), the audacious society burglar who has stolen the [Eastern Star](EasternStar) from a recent party at lady [Alida DuBois](AlidaDuBois)' place?
-* What happened to the [Star of the West](StaroftheWest) now it has turned out to be a forgery, likely for years?
+* What happened to the [Star of the West](StarOfTheWest) now it has turned out to be a forgery, likely for years?
 * Commander [Franklin Clint](FranklinClint) is worried about [Valèrie Courbier](ValerieCourbier)'s actions. What is he worried about? 
 
 * Why is [Reina](ReinaEmberblower) dreaming about a beach?
