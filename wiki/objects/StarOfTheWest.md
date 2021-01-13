@@ -5,7 +5,7 @@ categories: objects
 
 ### Star of the West
 
-Diamond tiara that [Florence Burton](FlorenceBurton) wore at her Coming of Age soiree hosted by her father [Cyrus Burton](CyrusBurton) on November 18th.
+Large diamond, set in a mithril tiara that [Florence Burton](FlorenceBurton) wore at her Coming of Age soiree hosted by her father [Cyrus Burton](CyrusBurton) on November 18th.
 
 We were hired to protect the tiara from [Ghost](Ghost). 
 
