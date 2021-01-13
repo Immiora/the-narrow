@@ -1,6 +1,6 @@
 ---
 title: Agana
-categories: other
+categories: gods
 ---
 
 ### Agana
