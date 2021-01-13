@@ -3,11 +3,11 @@ title: pigmen
 categories: other
 ---
 
-### Pigmen
+### Pig men
 A strange race of humanoids with tusks, snouts and trotters. They say that [Ham](Ham) gave them life.
 
 ### Murders in Magdalen
-Pigmen are involved in a number of recent murders in [Magdalen](Magdalen), including [Harba Ellicott](HarbaEllicott), [Dave Harrelson](DaveHarrelson) and others.
+Pig men are involved in a number of recent murders in [Magdalen](Magdalen), including [Harba Ellicott](HarbaEllicott), [Dave Harrelson](DaveHarrelson) and others.
 
 ### Relation to drugs
-Several samples of blood that we have collected belonged to pigmen. All of them contained high doses of [Forever](Forever)
+Several samples of blood that we have collected belonged to pig men. All of them contained high doses of [Forever](Forever)
