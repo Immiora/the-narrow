@@ -10,7 +10,7 @@ categories: quests
 
 ### Session Log
 
-The [Session Log can be found here](SessionLog). Read for example [Session 8](SessionLog#session-8-–-the-lady-in-the-lake)
+The [Session Log can be found here](SessionLog). Read for example [Session 8](SessionLog#session-8-–-the-lady-in-the-river).
 
 ### Open questions
 
