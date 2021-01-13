@@ -22,3 +22,7 @@ A barkeep keen on gossip.
 ### Hockerby and West
 
 Two men selling firearms and gunpowder.
+
+### Eva
+
+She sells jewelry and trinkets.
