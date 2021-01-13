@@ -7,26 +7,26 @@ categories: places
 
 A black market for diverse items, drugs and magics. Electrum is the dominant currency here, since it is less easily traced. It is possible to trade Gold for Electrum, although this trade comes at a premium.
 
-### Yasane
+#### Yasane
 
 A tiefling selling trinkets.
 
-### Amelia Stokes
+#### Amelia Stokes
 
 A half elven lady selling [Forever](Forever), and quite keen to flirt with [Lelouche](LeloucheKairon).
 
-### Louise Midgeley
+#### Louise Midgeley
 
 A barkeep keen on gossip.
 
-### Hockerby and West
+#### Hockerby and West
 
 Two men selling firearms and gunpowder.
 
-### Eva
+#### Eva
 
 She sells jewelry and trinkets.
 
-### Skinny Joe
+#### Skinny Joe
 
 A small-time crook and informant of [Reina](ReinaEmberblower).
