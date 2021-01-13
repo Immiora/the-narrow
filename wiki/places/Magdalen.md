@@ -20,3 +20,4 @@ Magdalen was founded 196 years ago by refugees from Tresse, a city state further
 ![Magdalen]({{ site.baseurl }}{% link /assets/images/Magdalen_v5.jpg %})
 
 
+
