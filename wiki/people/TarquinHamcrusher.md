@@ -1,8 +1,8 @@
 ---
 title: Tarquin Hamcrusher
-categories: peoplpe
+categories: people
 ---
 
 ### Tarquin Hamcrusher
 
-Detective Inspector Tarquin Hamcrusher, the copper who invited us to investigate the murder of [Dave Harrelson](DaveHarrelson).
+Detective Inspector Tarquin Hamcrusher of the [Magdalen City Watch](CityWatch), the copper who invited us to investigate the murder of [Dave Harrelson](DaveHarrelson).
