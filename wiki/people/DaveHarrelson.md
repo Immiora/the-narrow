@@ -5,7 +5,7 @@ categories: people
 
 ### Dave Harrelson
 
-Another victim of murders in [Magdalen](Magdalen). His body was found on November 12th by [Duthor Blessedbelly](DuthorBlessedbelly) near the [Dreams of Satin](DreamsOfSatin).
+Another victim of murders in [Magdalen](Magdalen). His body was found on November 12th by [Duthor Blessedbelly](DuthorBlessedbelly) near the [Dreams of Satin](DreamsOfSatin). Dave Harrelson was an inspector at the [Magdalen City Watch](CityWatch).
 
 The body had large wounds likely made by tusks of [Pig men](pigmen).
 
