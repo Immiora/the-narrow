@@ -1,6 +1,6 @@
 ---
 title: Orana
-categories: other
+categories: gods
 ---
 
 ### Orana
