@@ -1,6 +1,6 @@
 ---
 title: Vadohr
-categories: other
+categories: gods
 ---
 
 ### Vadohr
