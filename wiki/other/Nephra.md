@@ -1,6 +1,6 @@
 ---
 title: Nephra
-categories: other
+categories: gods
 ---
 
 ### Nephra
