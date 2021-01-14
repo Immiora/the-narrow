@@ -11,6 +11,17 @@ The city where our campaign takes place. We are trying to find [Corpulenti](Giac
 
 Magdalen consists of three principalities, the Magdalen, Lord's Lane and Ratwater. Each principality is subdivided in wards, and each principality has its own governor (or Mayor, in the case of Ratwater). Together with the chief magistrates of each principality and some prominent guildsmen, they form the [Magdalen City Council](CityCouncil), which is presided by the Lord Mayor of Magdalen, [Tarsim Uptwaith](TarsimUptwaith). There is no unified procedure to get on the city council, with some positions being hereditary, others granted on the basis of influence in the city, and a few are even elected officials.
 
+#### The Magdalen
+
+Wards in the Magdalen are Port Royal, Templeton, Outer Magdalen and Magdalen College.
+
+#### Lord's Lane
+
+Wards in Lord's Lane are The Lumps, Thence, Citadel Hill and Little Lothlorien.
+
+#### Ratwater
+
+Wards in Ratwater are Duskgate, Dockside, Columnborough and Eastmire.
 
 ### Founding
 
