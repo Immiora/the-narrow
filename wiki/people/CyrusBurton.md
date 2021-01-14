@@ -12,7 +12,7 @@ A  magistrate of [Lord's Lane](Magdalen#Lord's-Lane) and owner of a formely succ
 - [Florence Burton](FlorenceBurton)
 - [Granville Rowle](GranvilleRowle), [Cyrus Burton](CyrusBurton)'s solicitor
 - [Commander Franklin Clint](FranklinClint), commander of the Golden Brand (the standing army of Magdalen), and the Governor of Lord's Lane
-- [Reverend Quincy Stuart-Lane](QuincyStuartLane), young priest of Vitrion
+- [Reverend Quincy Stuart-Lane](QuincyStuartLane), young priest of [Vitrion](Vitrion)
 - [Lady Alida DuBois](AlidaDuBois)
 - [Elodie DuBois](ElodieDuBois)
 - [Jacques Robichaud](JacquesRobichaud)
