@@ -33,10 +33,11 @@ The [Session Log can be found here](SessionLog).
 * Commander [Franklin Clint](FranklinClint) is worried about [Valèrie Courbier](ValerieCourbier)'s actions. What is he worried about?
 * What does [Phyneas Vyner](PhyneasVyner) of the [Black Academy](BlackAcademy) know about the [Aura Vitalis](AuraVitalis) theory that [Martinet Stoker](MartinetStoker) mentioned?
 * Where did the giant hermit crabs come from that made their home in the wreckage of the [Silver Heron](SilverHeron)?
+* Is the colony of Kobolds below Ratwater an acute threat?
 
 * Why is [Reina](ReinaEmberblower) dreaming about a beach?
 * What is the source of the fragrant aroma that [Aiwei](AiweiLuTen) sometimes smells?
 * Who is Lady [Rue](Rue) and what is her connection to [Pearl](PearlLeRoux) and her family?
 * What is the significance of the tattoo on [Pearl](PearlLeRoux)'s breast?
 
-* Is the colony of Kobolds below Ratwater an acute threat?
+
