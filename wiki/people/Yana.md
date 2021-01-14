@@ -5,7 +5,7 @@ categories: people
 
 ### Yana
 
-Humanoid creature with characteristics of a tiger: claws, teeth and skin. Former leader of the [pigmen](pigmen). We killed Yana the same night he broke in and murdered prof. [Magnus Cotton](MagnusCotton). 
+Humanoid creature with characteristics of a tiger: claws, teeth and skin. Former leader of the [Pig men](pigmen). We killed Yana the same night he broke in and murdered prof. [Magnus Cotton](MagnusCotton). 
 
 ### Origins
 
