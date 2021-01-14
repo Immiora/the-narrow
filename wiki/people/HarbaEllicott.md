@@ -14,7 +14,7 @@ Harba was a graduate student of prof. [Magnus Cotton](MagnusCotton). Both worked
 
 There were 12 specimens. They are believed to have hallucinogenic properties. Many uncatalogued. Harba left behind a jounal describing her work. 
 
-When we went to her office in [Greenhouse #3](ColinMarshallInstitute#Greenhouse-3) we only found 11 specimens on her table. One is missing.
+When we went to her office in [Greenhouse #3](ColinMarshallInstitute#Greenhouse-3) we only found 11 specimens on her table. [One is missing](MissingSpecimen).
 
 ### Relation to drugs
 We found from visitors of the Wondering Scholar that Harba dealt [Forever](Forever) - a powerful and popular drug. Forever may be plant-based, which may indicate that Harba had something to do with synthesizing the drug.
