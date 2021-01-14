@@ -13,7 +13,7 @@ Magdalen consists of three principalities, the Magdalen, Lord's Lane and Ratwate
 
 #### The Magdalen
 
-Wards in the Magdalen are Port Royal, Templeton, Outer Magdalen and Magdalen College.
+Wards in the Magdalen are White Abbey, Port Royal, Templeton, Outer Magdalen and Magdalen College.
 
 #### Lord's Lane
 
