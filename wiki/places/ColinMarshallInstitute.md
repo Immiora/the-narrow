@@ -12,3 +12,4 @@ Part of Magdalen College, it is an institute dedicated to magical botany, a dang
 This large greenhouse complex houses various exotic plants and is mostly unexplored by the current staff of the institute. The northern part houses Dr. Pete Bishop's old study, where [Harba Ellicott](HarbaEllicott) did her research project to catalog old samples Bishop brought back from the [Marvain Islands](MarvainIslands). One of these samples is missing.
 
 The southern part of the greenhouse complex is largely unexplored, but it houses a group of treants.
+
