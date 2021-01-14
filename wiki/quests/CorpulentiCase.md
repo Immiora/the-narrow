@@ -19,7 +19,7 @@ The [Session Log can be found here](SessionLog).
 * Who is the mysterious figure [Ham](Ham) who directs the [Pig men](pigmen) and the other animal hybrids? What is Ham's plan?
 * Where is [Giacomo Corpulenti](GiacomoCorpulenti)? What happened to his new friend, Dr. [Mahendra](Mahendra)? Why is Corpulenti kidnapped?
 * What is the connection between the hallucinogenic drug [Forever](Forever) and the plans of [Ham](Ham)?
-* What happened to the preserved sample that was stolen from the [Colin Marshall Institute of Crual and Unusual Botany](ColinMarshallInstitute)?
+* What happened to the preserved sample that was stolen from the [Colin Marshall Institute of Cruel and Unusual Botany](ColinMarshallInstitute)?
 * How are the [Pig men](pigmen) and the other animal hybrids created? 
 * What information did [Nathalie Beaumont](NathalieBeaumont) bring to Magdalen, forty years ago, for which she was imprisoned?
 * Where is Dr. [Jean Anderson](JeanAnderson)?
