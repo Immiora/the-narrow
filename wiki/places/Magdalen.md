@@ -5,7 +5,7 @@ categories: places
 
 ### Magdalen
 
-The city where our campaign takes place. We are trying to find [Corpulenti](GiacomoCorpulenti), who we believe has been kidnapped by [Ham](Ham) and his servants - [pigmen](pigmen).
+The city where our campaign takes place. We are trying to find [Corpulenti](GiacomoCorpulenti), who we believe has been kidnapped by [Ham](Ham) and his servants - [Pig men](pigmen).
 
 ### Politics
 
