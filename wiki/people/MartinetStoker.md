@@ -5,7 +5,7 @@ categories: people
 
 ### Dr. Martinet Stoker
 
-Dr. Martinet Stoker is a scholar at [Waspa's Institute for Knowledge](WaspasInstitute), an institute that is part of Magdalen College. He is also the chief magistrate for [the Magdalen](theMagdalen). He lives next door to [21 Quay de l'Ombre](QuaydelOmbre), where [Lelouche](LeloucheKairon) first met him.
+Dr. Martinet Stoker is a scholar at [Waspa's Institute for Knowledge](WaspasInstitute), an institute that is part of Magdalen College. He is also the chief magistrate for [the Magdalen](Magdalen#The-Magdalen). He lives next door to [21 Quay de l'Ombre](QuaydelOmbre), where [Lelouche](LeloucheKairon) first met him.
 
 
 ### Files on Nathalie Beaumont
