@@ -1,6 +1,6 @@
 ---
 title: Vitrion
-categories: other
+categories: gods
 ---
 
 ### Vitrion
