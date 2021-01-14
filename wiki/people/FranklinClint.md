@@ -9,6 +9,8 @@ Commander Franklin Clint is the governor of [Lord's Lane](LordsLane) and the com
 
 In a conversation with [Cyrus Burton](CyrusBurton) he voiced his worries about the actions of [Valèrie Courbier](ValerieCourbier).
 
-> C: Courbier has overstepped her mark. She must realise that what she is doing is going to lead to her downfall.
-> B: Her supporters are a fierce bunch. I will support you if you decide to wipe it all clean.
-> C: Your support is noted”
+> Clint: Courbier has overstepped her mark. She must realise that what she is doing is going to lead to her downfall.
+
+> Burton: Her supporters are a fierce bunch. I will support you if you decide to wipe it all clean.
+
+> Clint: Your support is noted”
