@@ -14,3 +14,4 @@ In a conversation with [Cyrus Burton](CyrusBurton) he voiced his worries about t
 > Burton: Her supporters are a fierce bunch. I will support you if you decide to wipe it all clean.
 
 > Clint: Your support is noted”
+
