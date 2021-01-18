@@ -7,4 +7,4 @@ categories: places
 
 A brothel run by [Saria DeVaere](SariaDeVaere), in front of which [Dave Harrelson](DaveHarrelson) was found dead.
 
-Other people working here: a tiefling girl [Emiko Yatsumi](EmikoYatsumi), [Minnie](Minnie) - Reina's friend.
+Other people working here: a tiefling girl [Emiko Yatsumi](EmikoYatsumi), [Minnie](MinniePotts) - Reina's friend.
