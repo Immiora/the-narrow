@@ -6,4 +6,4 @@ categories: places
 
 ### The Caretaker
 
-Tavern in Duskgate. [Miles Crockford](MilesCrockford) is a Tortle Jazzplayer in this tavern. [Duthor Blessedbelly](DuthorBlessedbelly) was interrogated here by the group. 
+Tavern in Duskgate. [Miles Crockford](MilesCrockford) is a Tortle Jazzplayer in this tavern. [Duthor Blessedbelly](DuthorBlessedbelly) was interrogated here by the group. [Lunkwill](Lunkwill) is in a habit of hanging around the place too.
