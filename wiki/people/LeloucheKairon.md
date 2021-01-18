@@ -5,4 +5,4 @@ categories: people
 
 ### Lelouche
 
-Lelouche Kairon is a tiefling fighter. He is a private investigator and ex police officer.
+Lelouche Kairon is a tiefling fighter. He is a private investigator and ex police officer. His brother is [Barthélémy Kairon](BarthelemyKairon).
