@@ -6,7 +6,7 @@ categories: people
 ### Nathalie Beaumont
 Person possibly still imprisoned at [Skourge](Skourge) in connection with an animal-creature case.
 
-Used to work at the [Waspa's Institute of Knowledge](WaspasInstituteOfKnowledge).
+Used to work at the [Waspa's Institute of Knowledge](WaspasInstitute).
 
 Grandmother of [Orana](Orana) priestess [Rosalie Beaumont](RosalieBeaumont).
 
