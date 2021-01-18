@@ -26,7 +26,7 @@ Rumor has it that Alida might have been seeking marriage with [Cyrus Burton](Cyr
 - [Gabriel Fournier](GabrielFournier)
 - [Barthélémy Kairon](BarthelemyKairon), [Lelouche](LeloucheKairon)’s brother
 - [Sarita Layton](SaritaLayton), editor of the [Magdalen Journalier](MagdalenJournalier)
-- [Lady Rue](LadyRue)
+- [Lady Rue](Rue)
 - [Jasper LeRoux](JasperLeRoux), [Pearl](PearlLeRoux)’s father
 - [Opal LeRoux](OpalLeRoux), [Pearl](PearlLeRoux)’s mother
 - [Major Eve Martin](EveMartin)
