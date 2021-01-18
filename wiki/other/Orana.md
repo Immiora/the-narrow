@@ -11,4 +11,4 @@ Ordained of Orana take care of the deceased in Magdalen and other settlements in
 
 
 ### Representation in the city
-The [Twin Churches](TwinChurches) are dedicated to worship of Orana and her sister [Imiz](Imiz). [Rosalie Beaumont](Rosalie Beaumont) is a priestess at the Twin Churches, representing Orana.
+The [Twin Churches](TwinChurches) are dedicated to worship of Orana and her sister [Imiz](Imiz). [Rosalie Beaumont](RosalieBeaumont) is a priestess at the Twin Churches, representing Orana.
