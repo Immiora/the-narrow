@@ -24,7 +24,7 @@ The Well Honourable Council of the Sovereignty of Greater [Magdalen](Magdalen) a
 
 #### Guildsmen
 
-* [Orson Darlington-Whit](OrsonDarlingtonWhit)		– Representative of [the Scales](TheScales) (merchants' guild) and the guilds of [transporters](TransportersGuild) and [artificers](ArtificersGuild), and magistrate for Ratwater
+* [Orson Darlington-Whit](OrsonDarlingtonWhit)		– Representative of [the Scales](TheScales) (merchants' guild) and the guilds of [transporters](GuildofTransporters) and [artificers](GuildofArtificers), and magistrate for Ratwater
 * [Clementine Faraday](ClementineFaraday)	  	– Representative of [Siren's Call](SirensCall) (seamstresses' guild)
 * [Cyrus Burton](CyrusBurton)				    – Magistrate for Lord’s Lane and shipping tycoon
 * [Jasper LeRoux](JasperLeRoux)			      – Representative of the [Port Royal Company](PortRoyalCompany)
