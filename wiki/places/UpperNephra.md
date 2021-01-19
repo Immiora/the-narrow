@@ -11,4 +11,4 @@ In the recent 18 months, a spat of bad luck has hit the company. This includes t
 
 ### Offices in Magdalen
 
-Lelouche visited the offices of the Upper Nephra Shipping Company in Dockside ward, [Ratwater](Ratwater) recently. There he spoke with [Ormund Hillmantle](OrmundHillmantle), a dwarf who mans the desk. Hillmantle was somewhat concerned about the bad luck, even if he didn't suspect anything untowards.
+Lelouche visited the offices of the Upper Nephra Shipping Company in Dockside ward, [Ratwater](Magdalen#Ratwater) recently. There he spoke with [Ormund Hillmantle](OrmundHillmantle), a dwarf who mans the desk. Hillmantle was somewhat concerned about the bad luck, even if he didn't suspect anything untowards.
