@@ -5,7 +5,7 @@ categories: places
 
 ### The City Watch of Magdalen
 
-The Magdalen City Watch is a civil police organisation tasked with keeping the peace and investigating crime in the city.
+The Magdalen City Watch is a civil police organisation tasked with keeping the peace and investigating crime in the city. [DCS Jane Darling](JaneDarling) heads the detective branch of the Watch.
 
 ### The 11th Precinct
 
