@@ -11,7 +11,7 @@ The Silver Heron is a silk trading ship sailing under the flag of the [Upper Nep
 
 [Aiwei](AiweiLuTen) found the Navigator's Log in the wreckage. It reads 
 
-> 15 Februari: The captain has been in trade meetings with Wensworth McCree for hours. Afterwards he returned complaining that nothing ever gets done these days. He has ordered us to load existing freight, and for me to plot the course downstream to the Tane. Recent foul weather has likely changed the currents, so I’ll be forced to send out a pilot ship to chart the recent changes. It will be a few days before we can set sail again. The pilot will be annoyed to be dragged away from his wife and hearth in this bleak cold weather.
+> 15 Februari: The captain has been in trade meetings with [Wensworth McCree](WensworthMcCree) for hours. Afterwards he returned complaining that nothing ever gets done these days. He has ordered us to load existing freight, and for me to plot the course downstream to the Tane. Recent foul weather has likely changed the currents, so I’ll be forced to send out a pilot ship to chart the recent changes. It will be a few days before we can set sail again. The pilot will be annoyed to be dragged away from his wife and hearth in this bleak cold weather.
 
 > 17 Februari: With the most recent repairs done, and the pilot returned with fresh measurements, I will have the information needed to plot the appropriate course. So much to do – I find commanding the ship is thirsty work. A good thing that we’ve loaded up a few barrels of Thornberry Whisky.
 
