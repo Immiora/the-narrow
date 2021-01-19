@@ -9,3 +9,4 @@ Dead at 38 y.o. Another victim of [Magdalen](Magdalen)'s murders. Found dead on 
 Robart was a simple merchant - a fishmonger. 
 
 Was married to [Greta Talmayar](GretaTalmayar). His wife could not recall any details regarding his death.
+
