@@ -560,7 +560,7 @@ Aiwei joins the party again. Meanwhile, Lady Alida DuBois has become extremely t
 
 With the tiara in hand, Reina takes more time to look at the diamond. And something about it is annoying her. And after moving it in different light for some time, she realises that the reflection is off. This is not a real diamond. It is a fake! However, it has been a fake for quite some time, the setting has aged somewhat, and Reina estimates that the fake stone has been in place for at least a year. The group decides to confront Burton with this. They knock on his study, and bedroom door, but he is not there. They look around until they return to the library, where they spot Burton, sagged in a chair, face white as a sheet, and a dagger plunged in his chest.
 
-Session 14 – Midnight Interrogation
+### Session 14 – Midnight Interrogation
 
 Shocked, the group stands over the body of the magistrate. Aiwei and Lelouche take charge. Aiwei starts to investigate Cyrus Burton’s body, while Lelouche and Reina start going over the room in detail. Aiwei immediately spots that the dagger in Burton’s chest is small and blunt, more of a letteropener than a dagger per se. Remarkably little blood around the wound suggests that Burton was stabbed after death, and this was not the cause. She also remarks upon a small scrape wound on his head, shallow and also not fatal. The body is still relatively warm, indicating that Burton could not have died more than an hour ago (around midnight). 
 
@@ -575,11 +575,16 @@ Meanwhile, Reina spots a small silver creaming jug in the shape of a cow that li
 The two head down to the study, where they immediately spot that someone has gone through Burton’s stuff. Clint was quite thorough, and multiple stacks of papers and drawers have been uprooted. Looking around, Aiwei and Reina spot a similar gaudy letteropener, and a few empty brandy glasses. Aiwei pockets the latter. They also find a letter, written by Burton and to be sent to Wensworth McCree that reads 
 
 > To: Wensworth McCree
+
 > Upper Nephra Shipping Company Trading Outpost
+
 > Brassmere
 
+
 > McCree,
+
 > I have not received any correspondence from yourself or any other representative of the Trading Outpost in Brassmere for a while. You will understand that the investors in Magdalen are getting impatient. Provide me with an update by immediate reply.
+
 > – Burton.
 
 They also find a stack of threatening letters, with rough texts such as “How can you sleep at night?!”, “You haven’t seen the last of me!”, and “You will be taught a lesson!”
