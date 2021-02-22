@@ -612,6 +612,80 @@ Then the group calls in Frederic, the footman who had recently come into the emp
 “The local girl by the river, what did she look like?” Aiwei asks. “She had dark skin, very young. Pretty,” Frederic replies, confused by the change in direction of the conversation. “Did she have a tattoo on her breast?” Aiwei continues. “I don’t know, I did not look at her that closely,” says Frederic. The group huddles together for a while. “He did not kill Burton,” says Reina, “because Burton did not sleep in his bed tonight. So his death was not caused by an allergic reaction to the itching powder.” They turn back to Frederic. “Can you tell me about Cyrus Burton’s movements for the day?” Lelouche asks him. “Well, he was in his office when people started to come in. He talked to you four first, and then he proceeded to talk to his solicitor, Granville Rowle. Afterwards, he joined the main party in the drawing room, and was together with the rest of the group during dinner and then he went to the Library with the rest of the men. No, that’s not quite true, he had another talk to Granville Rowle before joining the others in the Library.” “Did they drink Rowle’s brandy, or Cyrus’?“ Aiwei asks, realising that Rowle had been carrying brandy in his case during the travel to Marborough. “Shit, we drank some of Rowle’s brandy,” Reina says. “We should talk to Granville Rowle!”
 
 
+### Session 15 – Granville’s Confession
+
+The group quickly reconvenes to discuss the appropriate tactics for the next conversation. They agree to let Pearl take the word whenever possible. The group then brings Granville Rowle, in his wheelchair, to the conservatory for questioning. “What did you and Cyrus Burton discuss in your meetings yesterday?” Rowle starts: “I’m ashamed to say that he wanted to discuss how to get his hands on Lady Florence’s fortune. The man has been in serious financial trouble for years.” He proceeds to explain that the trust fund that is due to be placed under Florence’s care this very day is substantial, and while tied up in different assets amounts to hundreds of thousands of gold. “Frustrating for Burton, to say the least,” Rowle mentions. “How long has Burton been in financial trouble?” Pearl asks. “He has never been the best at managing his fortune, but serious financial trouble? 2 decades,” Rowle continues. “There was a brief respite, 5 years ago, but for the last 2 years or so the bad luck has returned.” As Rowle mentions this, a brief flicker of guilt passes his eyes, spotted by Aiwei and Reina.
+
+The group decides to tell Rowle that Burton is dead. “I have to admit that I am somewhat relieved to hear this,” Rowle says. “He married my niece, Elisabeth, who was bestowed with a considerable fortune from her side, that is to say, my side of the family. That helped somewhat, she was willing to put some of her own fortune to work, and clever as she was, she made some good suggestions. But over the years their happiness soured considerably. Burton kept Elisabeth pretty much locked up in that old house of theirs. Every time I talked to her, I could see what was going on. By the end she believed that she was somehow defective and needed protection from the outside world. Poor girl.”
+
+“She went missing a few months after I last saw her, she left the little girl. I never knew what happened to her, but I hope, oh I hope, that she finally managed to get away from Burton.”
+
+“In any case, after a year, she was pronounced missing presumably dead, and her fortune was placed in a trust to be given to Florence by the time she came off age. Florence grew up to be the formidable young lady she is now, and even now I could see the same tendencies. Burton tried to keep her shielded from the world, attempting to poison her mind with ideas that the world was out to get her. And her with all her ideals and plans to improve the world. Did you know she is going to sponsor charitable institutions all over Magdalen? Annoyed Burton to no ends and no mistake! As I said, it’s been a rough going, financially, for Burton, and the latest year and a half have been hell.”
+
+The group asks what will happen now that Burton is dead. “Well, I expect someone to step in, of course. Could even be someone who is currently inside the house. I’d keep an eye on Jacques Robichaud, he’s an ambitious lad. Might be eyeing for a seat on the city council. Of course, the council is a paper tiger, and the real power lies elsewhere, but it would make him influential.”
+
+“Then, Lady Alida will take it badly,” Rowle continues. “She has been making it clear that she intends to remarry and saw Burton as a good prospect.” Again, a flicker of guilt passes his eyes, Aiwei spots. “Is he a creature of habit?” Lelouche jumps in. “Hard to say,” Rowle says. “He has his manners – many think he’s quite a rude man, very direct. He’s also one to take an opportunity when one comes by.” Both Aiwei and Reina get the impression that Rowle is hinting towards one specific occurrence, rather than talking in generalities. Urged by them, Pearl presses on in her questioning.
+
+“I’m sorry to tell you that you have been set up. Mr. Burton had a plan to gain immediate monetary relief for his current financial troubles, but which also would, I suspect, have been useful to get his hands on Florence’s fortune. I suspect Burton pawned off the actual Star of the West years ago. Likely roundabout the time that Lady Alida started flaunting the Eastern Star, a very similar looking stone, although she of course claims it’s been in the family since the Fall of Tresse and the flood. You would be hired to attract attention and to provide legitimacy when the jewel would eventually be stolen by a footman or “exchanged for a forgery” somewhere during the day. Your presence would also convince the insurance companies that Burton took legitimate steps to protect the jewel. Rumours about the Ghost were godsent of course, and it didn’t hurt to play up the danger. And in the end, Burton didn’t even need to make the exchange, after all, the diadem was already a forgery.”
+
+“I have to admit to my own meddling, though. Burton asked me to arrange certain parts of the ploy, and while I am honour bound to follow, I decided to let the proverbial fox inside the henhouse. I decided to give you access to Burton’s old place as a reward, the place where Elisabeth Burton had been locked up all those years ago. I had hoped that you would poke around and unearth some secrets that have been hidden for all those years.”
+
+“There appears to be connection between the jewel and the bad luck,” Reina suggests. Rowle waves it away, but Aiwei gets the distict impression that the old solicitor knows damn well where the bad luck came from. She whispers this to Pearl and suggests to use her connection to the ladies of the river to intimidate Rowle. Pearl steps up, shows Rowle the tattoo on her breast and urges him to speak on their behalf (and rolls a gddmn intimidation check in the low thirties). Rowle whitens at the sight of the tattoo.
+
+“There is something else you need to know. Much of this was brought on by myself, and I feel a terribly guilt about it all. Dash it. Years ago, just after Elisabeth went missing, I had a strong suspicion that Cyrus was behind all this, but I couldn’t prove anything. I felt so powerless. And as I was mulling over this, I came across this little antiques and jewelry shop. I’d never seen the place before, but it was there, in one of those little streets behind the Divine Court. On a whim, I entered, and was greeted by the shopkeeper. I felt compelled to tell her of my worries, and she waved them away, just like that. “I can give you something that will make the recipient value the bonds of family,” she said. She then showed me a massive diamond, a whopper of a stone if I may say so, and bent more closely. “’t is a dangerous thing, though. Do not treasure it too much, or else you may find you value your family not quite as much as you had hoped for.”
+Well, I forged some clauses in Elisabeth’s will, and when she was declared legally dead, I presented the diamond to Burton. Told him it was a piece that had been in the family for years and she had bestowed it upon him.”
+
+“Can you imagine my guilt when Burton’s fortunes started to plummet, and his behaviour towards little Florence went the same way as they first went with Elisabeth? I can’t prove it was the jewel, of course, but I suspected I had a hand in it. Even after the jewel itself was pawned off, it still kept the family in its grips. Not at first, we had a few years of respite after Cyrus sold the damn thing, but the last year and a half has been terrible. And so has his behaviour towards Florence.”
+
+“I had prepared for the eventuality. I doubted until the last moment, but today, I found my resolve. Something had to be done to save Florence. Cyrus had to be stopped!”
+
+“So tonight, when I was talking to Cyrus in the evening, I offered him some of the brandy that I had brought today. I mixed it with my digitalis drops. I need it for my heart, but it’s foul stuff. For folks with a dodgy ticker, like me, it keeps me running, but in larger amounts it will give a healthy man a heart attack in hours. I figured this would be relatively fool proof, and if anyone asked, I need those droplets to stay alive.”
+
+The group is astounded by the sudden confession. “Why are you telling us this?” Aiwei asks carefully. “The tattoo… There are powers at play that I know very little about. Your friend made me realise that I had fallen under such an influence. Guilt is a terrible feeling and I do not wish to be under its influence anymore.” Lelouche approaches him and starts explaining about what happened to Elisabeth, and that she is dead. Rowle’s eyes start to tear up. “At least she got away,” he manages to say between sobs.
+
+Reina announces to the group in the drawing room about the murder, hesitant at first, then realising how Hamcrusher would make such an announcement, and becoming more confident. After the announcement, she heads straight to the booze. Elodie, looking distinctly queazy, leaves with Barthélémy, as Clint walks up to them. “Well done, I thank you for your diligence. I would value your report on the matter, though.” Lelouche answers: “We shall, but if you don’t mind, it shall go through the proper channels. The matter will be confidential until then.” Clint seems taken aback for a bit, but soon recovers. “Then I expect to hear from DCS Darling soon.”
+
+Guarding Rowle in turns, the group then goes to sleep after a long and tiring day. Before leaving for Magdalen, Reina swipes a silver creaming jug shaped like a cow from the mantlepiece as a souvenir. It appears to be the companion piece of the ornament used to strike Burton over the head. Soon the coaches are readied and Rowle, under supervision of Pearl, is brought onto the carriage. Lady DuBois and her daughter decide not to travel back with the group, uncomfortable as they are with travelling with the murderer, so the group leaves Alderley with just Rowle. Upon leaving, two Ordained of Orana enter the manor to take care of the body of the deceased. 
+
+The travel back to Magdalen is marked by the sudden appearance of a troll on the road. Lelouche, Aiwei and Reina jump out of the coach, excited for action, and they make short work of the troll. However, they soon realise that trolls can heal themselves, even after they fall, and the troll can do some damage in return before they burn its body with fire. After that, the route to Magdalen is uneventful, and soon the group find itself looking over the big city and the estuary where Aiwei spots a familiar looking ship moored away from the city.
+
+Things have happened in the city, that much is clear. A large column of smoke rises from Northern Columnborough and the air tastes smokey. When the group returns to 21 Quay de l’Ombre, they find that they have received many messages in their absence.
+
+> Reina,
+> Meet me ASAP at the precinct. Shit has gone down over the last 2 days. Require an update from you all, so bring the others.
+> – Hamcrusher
+
+
+>Mms LeRoux,
+>Included is a preprint of this evening’s broadsheet, with compliments from ms Layton, who would like to attract your attention to the article on p 2.
+>– Magdalen Journalier editorial staff
+
+
+>Ms. Aiwei Lu Ten
+>Esteemed Initiate, it is my great honour to invite you to defend your judgement before a representative committee, chosen from the ranks of the Order of the Divine Ordeal. Upon successful completion of this sacred rite, the committee will confer upon you the rank of Ordained of Erena – a great honour. The exact nature of the rite has been a closely guarded secret since the founding of the Order, although it is of course known that it will involve passing judgement over a prisoner, a sinner, a devoted follower and an innocent bystander.
+>In preparation for the rite, please provide the secretary and archivist of the Order of the Divine Ordeal, mr. Septimius Alba, with the names and addresses of those you wish to judge.
+>Please be advised that the rite allows you to call upon the help of up to four trusted associates in this endeavour. These compatriots will serve in the mostly ceremonial role of paranymph, and should not be eligible to initiation to Erena themselves.
+>Yours in the divine light of justice of our good lady,
+>– Grand Master Dakurai Shoko
+>(– Septimius Alba, sec pp.)
+
+>Aiwei,
+>I received your message from the college porter that you wanted to talk to me. Meet me at the Wandering Scholar pub in the early evening. Ask the barkeep for me.
+>– Best, Maiko
+
+>Dear Mms. Pearl LeRoux
+>Mr. and Mrs Orist and Lilith DeVaere
+>Cordially requests the honour of your distinguished company on the auspicious occasion of the marriage of their daughter Eletha to the Honourable Leolamar Glynriel, on the  21st of December. Festivities will commence at three o’clock in the light of the Rose window of the Twin Churches, and will include the ceremonial crowning of Eletha as the Queen of Tears of this year’s Orania.
+>Cordiallement,
+
+
+>Pearl
+>Can I see you? Will you meet me at my place?
+>Love, Eletha
+
+
+
+
 
 
 
