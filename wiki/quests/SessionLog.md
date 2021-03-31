@@ -781,9 +781,9 @@ What we’re about to disclose to you is under the strictest confidentiality. Ag
 Aiwei agrees, and Grand Master Shoko continues. “Our clerics have always been in divine contact with our Just Lady Erena herself. We represent her interest in earthly matters, but there was always that connection, mysterious as it is. But over the years, the clerics found that connection waver, and worryingly, we lost our connection to Erena some three decades ago. Of course, we carried on as usual, representing the interests of our Just Lady, but without that connection, the divine power of our clerics diminished. We reformed, with meditation and a strong focus on our bodies and spirit. And we stopped allowing our disciples to undergo the ancient rites, since there was no power backing them up. So, why are we here then? Even before the connection with Our Just Lady was severed, Grandfather Zitembe, my predecessor, make a prophecy: 
 
 > The Ibis set free
-
+>
 > Child of here and far away 
-
+>
 > A lost soul returns
 
 “At the time people did not understand it, but as of late, we have come to interpret as Erena foreseeing the severed connection. Septimius Alba here believes that you may be the child of here and far away, a lost soul returning. Here to return all of us lost souls to our Just Lady. So, we have decided to let you proceed with the ancient, original version of the initiation ceremony, for the first time in decades. The ceremony stands thus: You are requested to pass judgement over a sinner, a criminal, a devoted follower and an innocent bystander. You can write down the judgement in confidence here, and we will seal the judgement together under the seal of Our Just Lady. Then, you will take these four individuals and defend your judgement in front of one of the Elders of our order. The elders are most likely still to bear a connection to Our Just Lady, but it is up to you to find them. We do not know what will happen if and when you find one of them, but we feel that it is the right way forwards.”
