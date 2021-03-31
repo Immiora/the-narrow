@@ -808,31 +808,31 @@ Reina and Aiwei soon find themselves going through the different cupboards, and 
 Aiwei walks outside of the room, and finds herself into a long corridor. This she does immediately recognise from her dream. She finds the hatch and leads the others into a deeper room where a narrow ray of light illuminates a central structure, like a lectern with a recessed space, and a brass horn connecting to it. Soon they find a wax scroll in the stands, the one labeled with the subtitle “Governor Mako Lu Ten”. But the scroll doesn’t appear to have an opening to it. “Maybe we should set it on fire, melt off the wax?” Maiko suggests. “No, there’s something else to it,” Lelouche says. “Look, there are markings here, some sort of grooves into the wax.” Aiwei looks at the lectern and spots that the cylinder can be placed inside the recess in the lectern. The cylinder stays in place in the recess. Pulling the flexible arm that comes down towards the recess, the cylinder starts to turn continuously. Just trying out, she places the arm on the surface of the scroll – a small needle picks up the message hidden inside the grooves, and the sound is amplified through the horn.
 
 > KGGHGHGk…..kgk gkgkk iciplinary hearing of Governor Mako Lu Ten on the 14 of August 181 by Inspector Tarsim Uptwaith. Governor Mako, wake up please.
-
+>
 > A softly spoken voice, quite warm despite of an obvious discomfort, replies.
-
+>
 > – Ghhh. Where am I?
-
+>
 > – We’re on the beautiful, rocky island of Skourge, Governor. Take a good look around. You will be here for a while.
-
+>
 > – Why? Tarsim? what’s going on?
-
+>
 > – Shush. Governor. We have confiscated your research materials and apprehended your clerks. The bishop isn’t happy. You’re in trouble. So, I’m going to make things very easy for you. Sign this confession.
-
+>
 > – What? No!
-
+>
 > – Governor, can’t you see it’s for the better? Sign the confession, and we’ll allow you to spend the rest of your days safely here in Skourge. You won’t be comfortable, exactly, but you’ll be alive.
-
+>
 > – Never!
-
+>
 > There is the sound of some scuffle.
-
+>
 > – Tarsim (the voice is much weaker now).
-
+>
 > – Maybe you need some more incentive. We have Nagao locked up.
-
+>
 > – You never! (Coughs) I don’t believe you.
-
+>
 > – I see. Next time then. I will bring you something of her so you can see we are being completely honest. Maybe her little finger? Interview terminated. Kgkgkghhrrrrk krkrrrrk krkrrkrk krkrkrk. 
 
 
