@@ -1,5 +1,5 @@
 ---
-title: Guygas Barbarossa Coral
+title: Heir of the Lord
 categories: people
 ---
 
