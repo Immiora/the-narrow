@@ -5,4 +5,5 @@ categories: people
 
 ### Alairon X
 
-Trained by [Gygas Barbarossa](GygasBarbarossa). In his 20s. Brother of [Irina Irati Irigoyen](IrinaIratiIrigoyen).
+25 years old, heir of the lord of [the Narrow](theNarrow).
+Trained by [Gygas Barbarossa](GygasBarbarossa). Brother of [Irina Irati Irigoyen](IrinaIratiIrigoyen) and [Elith Nightveil](ElithNightveil)
