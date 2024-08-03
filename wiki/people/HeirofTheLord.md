@@ -1,8 +1,8 @@
 ---
-title: Heir of the Lord
+title: Alairon X
 categories: people
 ---
 
-### Heir of the Lord
+### Alairon X
 
-Trained by [Guygas Barbarossa Coral](GuygasBarbarossaCoral). In his 20s. Has a twin sister.
+Trained by [Gygas Barbarossa](GygasBarbarossa). In his 20s. Brother of [Irina Irati Irigoyen](IrinaIratiIrigoyen).
