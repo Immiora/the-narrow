@@ -1,11 +1,11 @@
 ---
-title: Irina Irati Irigoyen
+title: Irina Irati Irigoyen Berrogar
 categories: people
 ---
 
-### Irina Irati Irigoyen
+### Irina Irati Irigoyen Berrogar
 
-Irina was born in the noble family of (NAME?), the eldest of two siblings. Her younger brother [Alairon X](AlaironX) is due to inherit, and although she loves him dearly, she has also always resented him for this fact, something that threatens to split her loyalties.
+Irina was born in the noble family of Berrogar, the eldest of two siblings. Her younger brother [Alairon Berrogar](AlaionBerrogar) is due to inherit, and although she loves him dearly, she has also always resented him for this fact, something that threatens to split her loyalties.
 
 Irina, whose father did not spend much time with her and whose mother was always sickly before dying young, was largely raised by her Grandmother, Irata, a very wise, conniving old lady with magical powers who behind the scenes largely managed the estate for her eldest and only son, Irina's father, who, although a man of great strength and physical capabilities, is not very good at governing or politics and prefers to hunt and drink. This, combined with the fact that it was her Grandmother who taught Irina everything she knows about laws, politics and intrigue, gave Irina a strong (though not necessarily thruthful) feeling that women are generally more competent than men. Irata was more than very fond of Irina, showering her with praise and privilige that would have made her arrogant had she not been largely ignored by her own parents. 
 
