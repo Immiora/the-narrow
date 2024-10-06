@@ -95,11 +95,13 @@ Irina went to general Grax at the encampment. Asking about an engineer to help b
 Speckled Jim came back.
 
 > My Dearest Alaion,
+>
 > Your letter reached me just as the sun began to dip below the hills, its golden light reminding me of your warmth. I read your words again and again, the weight of your secret pressing on my heart like a stone. The missing Duke’s heir... I can scarcely believe it, yet I know you would not entrust me with this if it were not true. You’ve placed your faith in me, and I swear on all that we share, I will guard this knowledge with my life. It is a heavy burden, but one I carry gladly, for your sake.
 > Yet, even as I hold your secret close, my heart is torn. There is something you must know, something I never wanted to confess, but I cannot keep it from you any longer. My family—gods, it pains me to even write this—has sent a force to the border. Their intent is to intercept your father, to arrest him before he can reach Magdalen. I fear the worst, Alaion. I fear that my house seeks to use this moment to fracture yours, and it terrifies me that I cannot stop them.
 > You must understand, my love, I had no part in this. My loyalty is yours, as is my heart. Every piece of me belongs to you. I feel so helpless, caught between blood and love, between duty and desire. But if it comes to choosing sides, know this: I will always stand with you.
 > I am begging you—prepare your father. Find a way to warn him before it is too late. If we move quickly, perhaps we can stop this before it becomes something far worse. I don’t want you to bear the consequences of a war neither of us wants. I couldn’t bear to lose you.
 > Please, stay safe, Alaion. I long to be at your side, to tell you all of this in person, to feel your arms around me as we face this storm together. Soon, I hope.
+>
 > Yours, now and always,
 > Tenestra
 
@@ -107,10 +109,13 @@ Speckled Jim came back.
 Elith also received a letter.
 
 > Letter from the Beekeeper to Elith 
+>
 > To my little caterpillar,
+>
 > The bees have whispered to me of your request, flitting between petals and secrets. I am inclined to aid you in your endeavors, but all things must be balanced.
 > In return for my help, you must fetch me something that I’ve long sought: the Moonlit Comb. It belonged once to a noble of the northern courts in the Margraeve, a shimmering charm hidden from mortal eyes. It holds more than simple beauty, little caterpillar, for its powers would serve me well in tending the hives and weaving the delicate threads of what lies beneath.
 > Until the comb is in my hands, we are bound in this dance of favor. Now go, and remember: even the smallest creatures can shape the course of kings.
+>
 > --The Beekeeper
 
 In Margraeve woods (north of the river) or Margraeve fiefdom (between here and Madgalen).
