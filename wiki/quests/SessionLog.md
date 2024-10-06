@@ -19,7 +19,7 @@ Elith in the woods, lost. Twilight. Sees a head on a spike. Called herself "gran
 
 > Ha! You smell familiar. Come and let me look at you. Oh yes, such dreams as you have. It will happen. The prophecy shall come to pass. He lies sleeping still, and Nephra flows south ever more. Ever winter. We need a springtide, and the later it comes, the worse it will be. But we won't be seeing winter anytime soon. Justice, they call it, or revenge, but all is fair in love and war, don't they say? Now shoo, go away. Let me rest on my poor stake in peace.
 
-#### Day 1
+#### Day 1 - Secrets Afloat: Explosions, Letters, and the Path to Embercliff
 
 Key events:
 1. We all prepare for the trip to Embercliff Keep, discussing potential hobgoblin traps with her grandmother and General Grax.
