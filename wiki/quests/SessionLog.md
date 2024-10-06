@@ -9,25 +9,21 @@ categories: quests
 
 
 ### Session 1 - Secrets Afloat: Explosions, Letters, and the Path to Embercliff
-Gygas
-Alaion
-Irina
-Elith
 
-#### Prologue
-Elith in the woods, lost. Twilight. Sees a head on a spike. Called herself "granny". The head said: 
-
-> Ha! You smell familiar. Come and let me look at you. Oh yes, such dreams as you have. It will happen. The prophecy shall come to pass. He lies sleeping still, and Nephra flows south ever more. Ever winter. We need a springtide, and the later it comes, the worse it will be. But we won't be seeing winter anytime soon. Justice, they call it, or revenge, but all is fair in love and war, don't they say? Now shoo, go away. Let me rest on my poor stake in peace.
-
-#### Day 1 
-
-Key events:
+**Key events:**
 1. We all prepare for the trip to Embercliff Keep, discussing potential hobgoblin traps with her grandmother and General Grax.
 2. A letter is received by Saturno Berrogar from Elena, alerting him about potential political troubles, and requesting his urgent presence in court due to suspicions surrounding their family in the abduction of Tobin.
 3. Alaion is tasked by his father to lead the mission to Embercliff Keep, while preparing for the trip by gathering supplies.
 4. Gygas researches ancient mythology at home, preparing for his departure to Fircliff.
 5. The family intercepts a suspicious boat, with the captain jumping overboard and the discovery of explosives aboard, causing the collapse of an arch and revealing a hidden cave near the Keep.
 
+#### Prologue
+
+Elith in the woods, lost. Twilight. Sees a head on a spike. Called herself "granny". The head said: 
+
+> Ha! You smell familiar. Come and let me look at you. Oh yes, such dreams as you have. It will happen. The prophecy shall come to pass. He lies sleeping still, and Nephra flows south ever more. Ever winter. We need a springtide, and the later it comes, the worse it will be. But we won't be seeing winter anytime soon. Justice, they call it, or revenge, but all is fair in love and war, don't they say? Now shoo, go away. Let me rest on my poor stake in peace.
+
+#### Day 1 
 
 We are at Fyrcliff (small: 1,000 people live there). 
 
@@ -73,7 +69,8 @@ As the ship crashed, the arch collapsed. The arch of the Leap was destroyed and 
 
 
 ### Session 2 - Collapse and Conspiracy: The Destruction of the Leap and the Unraveling Secrets
-Key events:
+
+**Key events:**
 1. The Leap is destroyed, revealing a large cave mouth on the other side of the river.
 2. The group is in a skiff with a bleeding captain, whom Alaion heals.
 3. The boy, the heir apparent Tobbin, doesn't remember how he got on the ship.
@@ -125,7 +122,8 @@ Elith goes to the body. She gets an inkling about the kind of magic: someone or 
 Irina went to general Grax at the encampment. Asking about an engineer to help break the dam. More testing is needed to estimate the time for this work. Grax feels strongly for this land, feels that the land needs to be protected. Sees us as stewards of the land. Irina feels insulted. 
 
 ### Session 3 - Secrets and Strife: The Keep, the Dam, and the Parley
-Key events:
+
+**Key events:**
 1. Speckled Jim returns, delivering a letter from Tenestra warning Alaion of her family's plot to intercept his father at the border.
 2. Alaion's father is intercepted by 30 armed Dainyr men, likely taken to Suncrest Castle.
 3. The Berrogars send a formal request for parley with Lady Helena Dainyr to negotiate their father's release at Castle Oxbow.
