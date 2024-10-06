@@ -12,4 +12,4 @@ Human society lives with the notion that people live on borrowed time. People ex
 
 People think that places have power. Abstract entities can be personified: Nephra, for example. People can meet a person who would be embodying a mountain or another natural entity. 
 
-![theNarrow]({{ site.baseurl }}{% link /assets/images/TheNarrow.jpg %})
+![theNarrow]({{ site.baseurl }}{% link /assets/images/Magdalen_v5.jpg %})
