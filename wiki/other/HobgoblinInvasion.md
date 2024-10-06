@@ -11,4 +11,6 @@ During the hobgoblin occupation, the young lord was either under the house arres
 
 Gorrila warfare during occupation led by [Gygas Barbarossa](GygasBarbarossa) in Oxbow.
 
+Hobgoblins are of very different culture than us. We acknowledge them as a people but they are alien to us. 
+
 Now the hobgoblins are suddenly retreating.
