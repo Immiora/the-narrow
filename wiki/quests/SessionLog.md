@@ -17,10 +17,19 @@ Elith
 #### Prologue
 Elith in the woods, lost. Twilight. Sees a head on a spike. Called herself "granny". The head said: 
 
-*"Ha! You smell familiar. Come and let me look at you. Oh yes, such dreams as you have. It will happen. The prophecy shall come to pass. He lies sleeping still, and Nephra flows south ever more. Ever winter. We need a springtide, and the later it comes, the worse it will be. But we won't be seeing winter anytime soon. Justice, they call it, or revenge, but all is fair in love and war, don't they say? Now shoo, go away. Let me rest on my poor stake in peace."*
+> Ha! You smell familiar. Come and let me look at you. Oh yes, such dreams as you have. It will happen. The prophecy shall come to pass. He lies sleeping still, and Nephra flows south ever more. Ever winter. We need a springtide, and the later it comes, the worse it will be. But we won't be seeing winter anytime soon. Justice, they call it, or revenge, but all is fair in love and war, don't they say? Now shoo, go away. Let me rest on my poor stake in peace.
 
 #### Day 1
-We are at Fircliff (small: 1,000 people live there). 
+
+Key events:
+1. We all prepare for the trip to Embercliff Keep, discussing potential hobgoblin traps with her grandmother and General Grax.
+2. A letter is received by Saturno Berrogar from Elena, alerting him about potential political troubles, and requesting his urgent presence in court due to suspicions surrounding their family in the abduction of Tobin.
+3. Alaion is tasked by his father to lead the mission to Embercliff Keep, while preparing for the trip by gathering supplies.
+4. Gygas researches ancient mythology at home, preparing for his departure to Fircliff.
+5. The family intercepts a suspicious boat, with the captain jumping overboard and the discovery of explosives aboard, causing the collapse of an arch and revealing a hidden cave near the Keep.
+
+
+We are at Fyrcliff (small: 1,000 people live there). 
 
 It is fall. October. 
 We are now preparing to head to Embercliff keep (a few hours away): our family old fortress. Since hobgoblins are gone now.
@@ -28,7 +37,19 @@ Raven is carrying a message.
 Irina is worries she would be left behind. Talking to her grandmother. She said traps are likely to be left behind, even a few
 Irata said that Irina should go see General Grax, ambitious guy, open to cruelty. You cannot trust Saturno to see Grax. Irina will go alone. Dad has the letter that arrived today, Irata says that Irina should read what's in it. Irina wants to see the general first. Pseudodragon hates hobgoblins. Smoke comes out of her nose. 
 
-Gygas is reading about predition, deities + mythology at home in his library. Preparing to leave for Fircliff. Reading about Nethra. Looking for any correlations between mythology, history, prophecies and presetn day events. Nethra is a river and a goddess of love: trecherous. Accounts of his father: never had the time to read. Sometimes Nethra would flow in the opposite direction: people from 200 years old would be accustomed to it. To us it is unusual. Bodyguard Leon notifies that it is time to leave.
+Letter from Elena Berrogar to Saturno Berrogar: 
+
+> Dearest Saturno,
+>
+> I need you at court, and soon – it would be better if you could set out as soon as you can, and not await the inevitable summons from the duke. You remember the news of poor missing Tobin. My mistress, high judge Agatha Wennesdae, gave the duke special permission for a one-time use of scrying magic to find his son. 
+> The poor boy is indeed abducted and currently transported by ship, but Wennesdae told me in confidence afterwards that some documents were spotted in his vicinity bearing the Berrogar seal. The suspicion will fall on us sooner than later and you need to be here to recuse us. 
+> Damn that Dainyr woman for her tricks. It's her behind this, I'm telling you.
+> In happier notes, I've been invited over for tea again later today by the Matchmaker. Negotiations are favourable to us, and we may soon share the happy news to Alaion. In her note, the Matchmaker also hinted at a much bigger prize for our Irina.
+>
+> Finding the quickest raven to deliver you this letter,
+> your Elena, who awaits your coming to court with eager anticipation
+
+Gygas is reading about predition, deities + mythology at home in his library. Preparing to leave for Fyrcliff. Reading about Nethra. Looking for any correlations between mythology, history, prophecies and presetn day events. Nethra is a river and a goddess of love: trecherous. Accounts of his father: never had the time to read. Sometimes Nethra would flow in the opposite direction: people from 200 years old would be accustomed to it. To us it is unusual. Bodyguard Leon notifies that it is time to leave.
 
 Alaion ia qith his squire Remo. They are at the market getting weaving supplied to work on the tapestry of the family: updating the reclaiming of the ansestry seat. Wants to use the golden thread. Likes to haggle and interact with the common folk. Genuine article: subterranian silk - one of the sources of riches of the region. Father asking after Alaion. Father is impatient and frustrated. Father says: "Something has come up. I have to go to court in Magdalen. Need to leave now. It may be about the mother, some political reason." Alaion will lead the mission to the keep in his name. 
 
@@ -52,6 +73,18 @@ As the ship crashed, the arch collapsed. The arch of the Leap was destroyed and 
 
 
 ### Session 2
+Key events:
+1. The Leap is destroyed, revealing a large cave mouth on the other side of the river.
+2. The group is in a skiff with a bleeding captain, whom Alaion heals.
+3. The boy, the heir apparent Tobbin, doesn't remember how he got on the ship.
+4. Gygas, Irina, and Alaion head to Irata to question the boy - Tobbin, while Elith goes to investigate the collapse and check access to ShadowFey.
+5. Irina suspects a conspiracy involving the Dainyr house.
+6. Gygas interrogates the captain, finding forged documents with their family seal.
+7. Hobgoblins are observed entering the cave across the Leap, while Naumi watches them.
+8. Irina warns her father of a potential trap, while Alaion contacts his love interest in the Dainyr house.
+9. Scouts report on the keep's condition, revealing it’s partially abandoned but housing a giant.
+10. Irina requests Grax’s help to dismantle the dam; Grax feels protective of the land, leading to a tense exchange.
+
 The Leap is gone. A giant cave mouth is open on the other side of the river. Guygas and boy are hanging on the immovable rod. Water level is rising because of the dam. We are all in the skiff together with the captain who is bleeding prdofusely. Alaion heals him. More water is flowing South, partially blocked by the new dam - as the result of the explosion. 
 
 Boy with a dot of black hair, dusky dark skin, between 5 and 10. Heir apparent of the Lord's house. Does not remember how he got on the ship. Chased the cat, jumped over the wall and found himself on the other side of the wall.
@@ -92,6 +125,15 @@ Elith goes to the body. She gets an inkling about the kind of magic: someone or 
 Irina went to general Grax at the encampment. Asking about an engineer to help break the dam. More testing is needed to estimate the time for this work. Grax feels strongly for this land, feels that the land needs to be protected. Sees us as stewards of the land. Irina feels insulted. 
 
 ### Session 3
+Key events:
+1. Speckled Jim returns, delivering a letter from Tenestra warning Alaion of her family's plot to intercept his father at the border.
+2. Alaion's father is intercepted by 30 armed Dainyr men, likely taken to Suncrest Castle.
+3. The Berrogars send a formal request for parley with Lady Helena Dainyr to negotiate their father's release at Castle Oxbow.
+4. Irina sends a letter to her father, warning of a possible trap, while Alaion sends one to Tenestra, hoping to prevent conflict.
+5. The group inspects the Keep, clearing it of remnants of hobgoblin occupation, and persuades the giant Gug to leave.
+6. Gygas and Elith head to Margraeve woods to find the Moonlit Comb and deal with Gug, while Alaion and Irina meet with General Grax about repairing the dam, which will take weeks to complete.
+7. The Dainyrs agree to the parley.
+
 Speckled Jim came back.
 
 > My Dearest Alaion,
@@ -108,8 +150,8 @@ Speckled Jim came back.
 
 Elith also received a letter.
 
-> Letter from the Beekeeper to Elith 
->
+Letter from the Beekeeper to Elith: 
+
 > To my little caterpillar,
 >
 > The bees have whispered to me of your request, flitting between petals and secrets. I am inclined to aid you in your endeavors, but all things must be balanced.
@@ -122,9 +164,55 @@ In Margraeve woods (north of the river) or Margraeve fiefdom (between here and M
 
 Our father was intercepted by a large force of 30 armed Danyer men. Likely taken to Suncrest castle.
 
-We all meet up downstairs. We have an uncle Gavin. Loyal but not sociable. Send a message to parley to Suncrest. The idea is to parley with the four of us + our uncle Gavin.
+We all meet up downstairs. We have an uncle Gavon. Loyal but not sociable. Irina sent a message to request parley to Suncrest. The idea is to parley with the four of us + our uncle Gavin at Oxbow on the third day at dawn.
 
+Letter from the Berrogar family to Lady Helena Dainyr:
 
+> Lady Helena
+>
+> We are writing with a request of the utmost sincerety. It has come to our attention that our father finds himself an unwilling guest at your hall. We are shocked about this breach of our trust and the peace between our families. But feel like if you are ready to take such potentially devastating steps, you must have your reasons. We are therefore ready for negotiation and request a parlay. We request a meeting at sunrise on the third day from on the neutral grounds at Castle Oxbow. We guarantee a safe conduct of course, attached to this letter. Sir Frederick flies fast, we request your reply with urgency.
+>
+> Berrogar
+
+Gygas sent a letter to our uncle [Gavon](GavonBarrogar), telling him about the situation.
+
+> My liege,
+>
+> I bear sullen news: your brother, Saturno, has been wrested from the safety of his escorted forces near the border.
+> I, Lord Barbarossa of the Guard, send you this message to request your aid in the parlay for his freedom at Castle Oxbow. This will take place at sunrise on the third day.
+> Prithee, make haste. Your flesh and blood hangs by a thread.
+>
+> Ser Gygas Barbarossa of Coral, by Cervantes.
+
+Alaion sent a letter to Tenestra, telling her everything. Wants to prevent a conflict, asking what Helena wants, asking to take care of Father.
+
+There are some bees now in Elith's vicitiny now that she has accepted the challenge and is friendly with the Bee Keeper.
+
+We are taking 2 knights and 10 infantry with us to the Keep.
+
+Keep: three outer walls. We are standing in a boat house: two towers on either side that give access to the lower courtyard. Court wall around leading to the main castle grounds.
+
+We go through the door, enter the courtyard, blackberries are there, we went through the first wall layer. 
+
+We picked up goats. We got to a door that's locked, next to it a wall with a crack in it. Elith applied thunderclap to it to widen it, everyone can go through it now. We are now through the middle wall. We are in a depression now. Alaion keeps talking to goats. Enemy goats are coming over.
+
+We got the the main area with stables, blacksmith, main gate, etc. We are in a large kitchen area (went through another goat-sized crack).
+
+We got to the central hall of the Keep. Our family used to have banquets here. A lot of remnants of hobgoblin occupation. They left behind banners, weapons, furniture, tents, food supplies, fireplace in the middle. A giant man is sitting in the middle, milking the goal. His name is Gug.
+
+We convinced Gug to leave the castle. He headed up North. He left goats behind.
+
+We are clearing up the place. 
+
+We dispatched a group to disarm traps by the bridge. Some aggressive vines there. Irina got some snare in a jar.
+
+Elith and Gygas go North to the Margraeve woods to keep an eye on the giant, return his goals, possibly recruit him to fix the dam, also look for the [Moonlit Comb](MoonlitComb).
+
+Alaion and Irina go to the hobgoblin encampment and general Grax. Two high ranking hobgoblins carry an unknown crest of a red hand, they left Grax's tent and make ready to leave. They are representatives of the capital Hob. Grax: it's not important what they are doing here. Irina offered the snare in a jar to the general. Bad news from the engineer: massive amounts of time are needed to repair the dam. If we were to remove the dam in a violent way: this would cause catastrophic consequences downstream. The engineer suggest to make a controlled path for the release of the water. Install some elevators to move cargo from one side of the river to another. Three weeks of time are needed to do this. A long term solution will take a better part of the year. Alaion: the two hobgoblins were very important, Grax is annoyed they were there.
+
+Grax is attached to this land, wants the land to be in good hands, wants to ensure good stewardship of this land. Will estimate the costs of repairing the dam, wants to financially contribute. Grax asks for our approval for hobgoblins to execure their repairment plan. 
+
+A latter came back from the Dainyr family: they agreed to parley.
 
 
   

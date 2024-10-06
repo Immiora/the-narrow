@@ -16,3 +16,15 @@ Members of the house:
 - [Alaion Berrogar](AlaionBerrogar)
 - [Irina Berrogar](IrinaBerrogar)
 - [Elith the Hexweaver Berrogar](ElithHexweaver)
+
+Our resources:
+- Berrogar Guard
+- - 5 knights
+- - 25 infantry/bow
+- - 10 scouts
+- - 14 rangers (Sir Gavon)
+- Fyrcliffe
+- - 320 reservists
+- Sir Gygas
+- - 20 light cavalry
+- - 130 reservists
