@@ -72,7 +72,7 @@ We are intercepting the boat. The boy looks confused. The captain jumps into the
 As the ship crashed, the arch collapsed. The arch of the Leap was destroyed and a cave opened up on the other side. The Keep stayed in place.
 
 
-### Session 2
+### Session 2 - Collapse and Conspiracy: The Destruction of the Leap and the Unraveling Secrets
 Key events:
 1. The Leap is destroyed, revealing a large cave mouth on the other side of the river.
 2. The group is in a skiff with a bleeding captain, whom Alaion heals.
@@ -124,7 +124,7 @@ Elith goes to the body. She gets an inkling about the kind of magic: someone or 
 
 Irina went to general Grax at the encampment. Asking about an engineer to help break the dam. More testing is needed to estimate the time for this work. Grax feels strongly for this land, feels that the land needs to be protected. Sees us as stewards of the land. Irina feels insulted. 
 
-### Session 3
+### Session 3 - Secrets and Strife: The Keep, the Dam, and the Parley
 Key events:
 1. Speckled Jim returns, delivering a letter from Tenestra warning Alaion of her family's plot to intercept his father at the border.
 2. Alaion's father is intercepted by 30 armed Dainyr men, likely taken to Suncrest Castle.
