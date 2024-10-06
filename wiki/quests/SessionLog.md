@@ -122,7 +122,7 @@ In Margraeve woods (north of the river) or Margraeve fiefdom (between here and M
 
 Our father was intercepted by a large force of 30 armed Danyer men. Likely taken to Suncrest castle.
 
-We all meet up downstairs.
+We all meet up downstairs. We have an uncle Gavin. Loyal but not sociable. Send a message to parley to Suncrest. The idea is to parley with the four of us + our uncle Gavin.
 
 
 
