@@ -307,7 +307,7 @@ Danyers are everywhere: married to many fiefdoms. Berrogar are not.
 
 The Duke is a vassal of the King under the mountain. House in Underharbor if the person to go through: lady Anja. Sir John is sworn to celebacy, Thomas is unwell ans is sickly. 
 
-Conflict in Screelands: mulberry trees with nightsilk (luxurious fancy fabric for nobles): conflict between minders and the lords.
+Conflict in Screelands: mulberry trees with nightsilk (luxurious fancy fabric for nobles): conflict between miners and the lords.
 
 
 
