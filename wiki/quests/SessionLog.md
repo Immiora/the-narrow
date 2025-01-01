@@ -59,7 +59,7 @@ Early afternoon.
 
 Our father was quite vocal about this transition of power going peacefully. Going over the Leap freaks people out. We can take the boat to go under it to reach the Keep.
 
-Flat bottom ship going past the docks. Taking down the sail. People are using this ship up North (trade: silk skimmer). The line the ship is following is off, skirting close to the southern bank of the river. One person on board, captain. He if fixing things, placing the tiller. A small boy is on board. We sent off a crew to intercept.
+Flat bottom ship going past the docks. Taking down the sail. People are using this ship up North (Screelands, trade: silk skimmer). The line the ship is following is off, skirting close to the southern bank of the river. One person on board, captain. He if fixing things, placing the tiller. A small boy is on board. We sent off a crew to intercept.
 
 Dainyr woman in the letter - the woman at Suncrest (Helena Dainyr), ruling house in the fifdom next to us. Rivalry with them, going back for generations. Our house was founded here, we are very local. At some point our family influence spread out. The Dainyr family was a big political player in a big city state before the big Flood that destroyed it. They took some of our land through conquest and intrigue. 
 
@@ -99,7 +99,7 @@ Irata saw the explosion, they told her about Tobbin.
 
 Irata: things have been going suspiciously well for us lately: hobgoblins retreat, trade and crop improving, our political standing is improving. Irina: house of Dainyr is setting this up. Father took 12 guard when he left. Alaion and Irina disagree about what to do: whether it is okay to keep Tobbin or not.
 
-Gygas is interrogating the captain. Wants to tell us why he took the boy but cannot tell us. He pushed the boy out of his own will. Gygas goes through the captain's belongings: ship's manifest, rapier, dagger, purse with silver, document that carries our seal. John Tappisher is his name. Black firepowder: used in the mines of North, cant tell us how he got it. Magic does not wear off. All is fair in love and war.
+Gygas is interrogating the captain. Wants to tell us why he took the boy but cannot tell us. He pushed the boy out of his own will. Gygas goes through the captain's belongings: ship's manifest, rapier, dagger, purse with silver, document that carries our seal. John Tappisher is his name. Black firepowder: used in the mines of North (Screelands), cant tell us how he got it. Magic does not wear off. All is fair in love and war.
 
 Dainyrs are from South Downs: North-West from us. Everything north-west of Magdalen is considered North mines.
 
@@ -162,7 +162,7 @@ In Margraeve woods (north of the river) or Margraeve fiefdom (between here and M
 
 Our father was intercepted by a large force of 30 armed Danyer men. Likely taken to Suncrest castle.
 
-We all meet up downstairs. We have an uncle Gavon. Loyal but not sociable. Irina sent a message to request parley to Suncrest. The idea is to parley with the four of us + our uncle Gavin at Oxbow on the third day at dawn.
+We all meet up downstairs. We have uncle Gavon. Loyal but not sociable. Irina sent a message to request parley to Suncrest. The idea is to parley with the four of us + our uncle Gavin at Oxbow on the third day at dawn.
 
 Letter from the Berrogar family to Lady Helena Dainyr:
 
@@ -210,10 +210,121 @@ Alaion and Irina go to the hobgoblin encampment and general Grax. Two high ranki
 
 Grax is attached to this land, wants the land to be in good hands, wants to ensure good stewardship of this land. Will estimate the costs of repairing the dam, wants to financially contribute. Grax asks for our approval for hobgoblins to execure their repairment plan. 
 
-A latter came back from the Dainyr family: they agreed to parley.
+A letter came back from the Dainyr family: they agreed to parley.
 
 
   
+### Session 4
+
+Today is 8th of October. Parley is on the 10th.
+
+We are following Gug. He is in the water. We are on the hill. 150 meters water. We spent a better part of the day to get there. 
+
+Wooden wall construction. A handfull of people of either side. 60 feet. 
+
+40 ft old man, 2 more archers on our side, 2 more on the other side of the river. Sir Gavon. The giant agreed to go to help with the dam. In return I will help him cross the Leap where he will be undisturbed. No word about the Moonlit Comb. We are spending the night at his encampment. 
+
+Robar the ranger - in sir Gavon's encampment. They agreed to join the parley. Hallow's woods is a part of our fiefdom. Moonlit is used to talk about the queen of the Northerly Margaeve Courts - people go there and disappear for years. Come back speaking of Courts.
+
+Fourteen year old Gavon - Maryene was amazing. She disappeared, was away for 3 years. Came back, talked to Saturno about the Courts, wanted to return. Then she left for good. 
+
+She strayed off Hallow's Woods - town in the North. 
+
+Irina writes Krax a letter thanking him.
+
+General Krax came in. He secured funding for the work on the dam. Document to sign by Alaion about hobgoblins camping by the dam to fix the river flow. Hobgoblins contribute considerable funds. The agreement is in place until the river flow is interrupted. Krax indicates that they are going to do this even without our permission. Krax looks worried. He feels a responsibility on his head. Cares about naval security. He will come to our aid if requested.
+
+Ships are taxed as they pass through the dam. An elevator is installed by hobgoblins to make ships get through.
+
+Corwyn house from Ironberk could join with us against Danyer. They want to break free from them. Screelands may be interesting to get close to as well.
+
+We will parley at Oxbow.
+
+Minder is a river.
+
+Hob Civilian government.
+
+
+### Session 5
+We got to Oxbow for the parley.
+2 knights, 15 infantry, 9 rangers, 8 scouts + 20 inrantry of Gygas
+Gunship diplomacy: troops resting on the border.
+20 knights
+20 cavalry
+
+We will parley at the ford by the river. 10 meters distance between the two sides of the river.
+We have time till dawn. 
+
+What do we want from the parley? 
+In the morning: fog. 
+Helena: in her sixties, youginsh man in blacks - different color than the house of Daynir.
+
+They brought a cart with them. They are holding Saturno on the orders of the duke. They  received a letter from the lord of Magdalen. 
+
+They did not bring along 20 knights. There is a logical explanation for this!
+
+The divine court in Magalen is to decide on our role in Tobin's disappearance. 
+
+> Evidence has come to light that House Berrogar is connected to the abduction of my son Tobin. I charge you with holding [[Lord Saturno Berrogar]] in your care until such time that a suitable court case can be held in the Divine Court at Magdalen. I charge you with finding evidence that can bring to light the perpetrator of this unjustice. I charge you with undertaking whichever action you deem necessary to return my son Tobin to my care. Signed, [[Duke Martyn Eldrin of Old Magdalen]]. (signed 6 October)
+
+Scrying on the boy: documents with our seal were seen. The mother of Berrogar is the secretary to the High Judge. Tenestra is tense. Selina Lyswell may be the betrothed one for Alaion (his mother has been doing this).
+
+Elith fell into the waterfall. Abjuration magic on the boy. Lady Helena is also carrying some adjuration magic item.
+
+We told Helena that we have the boy. 
+Large Daynir's Shambling bound: rotting plant monster.
+
+
+fixed damage is 7 for rangers 4, 5, 6
+fixed damage is 9 for knights 4, 5, 6
+fixed damage is 6 for light cavalry, hit on 4, 5, 6 (d6)
+
+if disadvantage: hit on 5, 6. If advantage: hit on 3, 4, 5, 6
+
+speed 80 for light cavalry
+
+### Session 6
+
+
+Denestra dropped a green gem item. 
+
+We took one knight captive. We killed his brother. He said that Saturno is unharmed but is detained. The knight's name is sir Marc Wyndall (noble family in the. vicinity of Wyndy Brook, sworn to house Dainyr). His orders were to prepare for war with us. He also said that the man in black is a slimy bugger, creature of the laby. His name is master Bergel. He is a mage, has a power to make plants into monsters.
+
+Leaves shaped jewel. Not a magical item.
+
+Lady Helena retreated back into the forest. We do nor know their plans. We retreated to castle Oxbow. Gygas is resting (was on 1 HP). 
+
+
+Selina Lyswell is the daughter of Sedric Lyswell: lord of the port Tanemond.
+
+We go to grandmother. The jewel is old: a few hundred years. It is on the tapestry. Lady Elara Berrogar from a couple hundred years ago who was betrothed to Garret Dayner. There was a scandal, he called off the engagement and accused her of being unfaithful. We stand that the accusation was unfounded. This jewel was given by Garret to Elara, and she threw it back into his face when the engagement was called off. This is the start of the feud between the families.
+
+Matchmaker Alditha is setting Irina up with someone else as well. 
+
+Lord Arthur Falkenrath, lord of the Beacon, sworn to House Norril. Tactical genius. Was the general of the Riverlands’ army for years until he suddenly wasn’t. 
+
+Danyers are everywhere: married to many fiefdoms. Berrogar are not.
+
+The Duke is a vassal of the King under the mountain. House in Underharbor if the person to go through: lady Anja. Sir John is sworn to celebacy, Thomas is unwell ans is sickly. 
+
+Conflict in Screelands: mulberry trees with nightsilk (luxurious fancy fabric for nobles): conflict between minders and the lords.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
