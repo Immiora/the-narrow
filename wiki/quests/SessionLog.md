@@ -305,9 +305,44 @@ Lord Arthur Falkenrath, lord of the Beacon, sworn to House Norril. Tactical geni
 
 Danyers are everywhere: married to many fiefdoms. Berrogar are not.
 
-The Duke is a vassal of the King under the mountain. House in Underharbor if the person to go through: lady Anja. Sir John is sworn to celebacy, Thomas is unwell ans is sickly. 
+The Duke is a vassal of the King under the Mountain. House in Underharbor is the person to go through: lady Anja. Sir John is sworn to celebacy, Thomas is unwell and is sickly. 
 
 Conflict in Screelands: mulberry trees with nightsilk (luxurious fancy fabric for nobles): conflict between miners and the lords.
+
+
+### Session 7
+
+Are we being pushed into conflict wiht Dainyrs by some external forces? Is this related to the retreating of the hobgoblins? 
+
+Toblin is going to be picked up by the independent envoy and an investigation will be carried out by the Duke about the kidnapping and our involvement in it. 
+
+the Engineer + giant + hobgoblins working on the dam. 
+Bruno is still injured.
+
+Naumi: hobgoblins took interest in the cave and set up camp there.
+
+It is winter there. Seasons are unpredictable, but the Feywild creatures apparently can anticipate the weather. The Beekeper mentioned that winter is coming and is going to stay for a while. Elith finds it weird as usually the seasons change unpredictably. It is October. Dainyr may attach in spring. Helena is amassing armies even though she is likely manipulated by someone.
+
+Bergil, the sorcerer: who is he? 
+
+An idea: to send Gridd and Bairok as spies to hobgoblins: to Hob.
+
+Northerly Margaeve Courts?
+
+Something about the passage of time?
+
+There was a girl: Maryen Omara, good friend of Saturno and Gavon. Beekeeper: are you a butterfly yet?
+
+Elith feels the winter in the surroundings. Coming from the River? Queen of the river. There are more Northerly Margaeve Courts: queen of Winter. Bruno: she is dangerous. The place is enchanted. Contents of a covenance? A covenance made that grants the lands surrounding the river. It would be guarded by someone in a big city. The contents will be broken soon enough. I now have five amulets. 
+
+Everyone can approach the cave. 
+
+1) read up on lore in the library + talk to people about queens and covenance
+
+It's 16 of October. It's always been winter. Only sir Gygus experienced other seasons. They invaded and some time later (5-10) it became winter. River flow may change unexpectedly and that could be connected to some major events?
+
+There are deep religious libraries in Magdalen: Fall of Tress and Avalrona
+
 
 
 
